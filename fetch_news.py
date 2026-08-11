@@ -52,8 +52,24 @@ def fetch_feed(query):
 
 
 def normalize(title):
-    # ponytail: dedupe por titulo normalizado, suficiente para RSS
     return re.sub(r"[^a-z0-9áéíóúñ]+", "", title.lower())
+
+
+STOPWORDS = set("para como sobre tras ante desde este esta estos estas entre".split())
+
+
+def words(title):
+    return {w for w in re.findall(r"[a-záéíóúñ0-9]+", title.lower()) if len(w) > 3 and w not in STOPWORDS}
+
+
+def is_dupe(w, seen_words):
+    # ponytail: overlap O(n^2) sobre ~300 titulares, sobra; indexar si crece a miles
+    # inter/min es agresivo a proposito: mejor perder una variante que repetir la noticia
+    for s in seen_words:
+        inter = len(w & s)
+        if inter and inter / min(len(w), len(s)) >= 0.5:
+            return True
+    return False
 
 
 def parse_items(root):
@@ -78,6 +94,7 @@ def parse_items(root):
 def main():
     cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     seen = set()
+    seen_words = []
     out = {}
     for cat, queries in CATEGORIES.items():
         items = []
@@ -93,8 +110,12 @@ def main():
                     continue
                 if it["date"] and datetime.fromisoformat(it["date"]) < cutoff:
                     continue
+                w = words(it["title"])
+                dupe = w and is_dupe(w, seen_words)
                 seen.add(key)
-                items.append(it)
+                seen_words.append(w)  # tambien los descartados, para atrapar cadenas de variantes
+                if not dupe:
+                    items.append(it)
         items.sort(key=lambda x: x["date"] or "", reverse=True)
         out[cat] = items[:MAX_PER_CATEGORY]
         print(f"{cat}: {len(out[cat])} titulares")
