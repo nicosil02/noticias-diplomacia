@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor de Política Internacional</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #fff; --text: #1a1a1a; --muted: #6b7280;
+    --accent: #8f1c1c; --border: #e5e7eb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #111418; --card: #1b1f26; --text: #e8eaed; --muted: #9aa0a6; --border: #2c313a; }
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: var(--bg); color: var(--text); font: 15px/1.5 system-ui, sans-serif; }
+  header { padding: 24px 16px 8px; max-width: 1200px; margin: 0 auto; }
+  h1 { font-size: 1.3rem; }
+  #updated { color: var(--muted); font-size: .85rem; }
+  nav { display: flex; gap: 8px; padding: 12px 16px; max-width: 1200px; margin: 0 auto; flex-wrap: wrap; }
+  nav button {
+    border: 1px solid var(--border); background: var(--card); color: var(--text);
+    padding: 6px 14px; border-radius: 20px; cursor: pointer; font-size: .9rem;
+  }
+  nav button.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  main { max-width: 1200px; margin: 0 auto; padding: 8px 16px 40px; display: grid; gap: 20px;
+         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
+  section h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: .05em;
+               color: var(--accent); padding-bottom: 8px; border-bottom: 2px solid var(--accent); }
+  article { background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+            padding: 10px 12px; margin-top: 10px; }
+  article a { color: var(--text); text-decoration: none; font-weight: 500; }
+  article a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: .8rem; margin-top: 4px; }
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Monitor de Política Internacional</h1>
+  <div id="updated">Cargando...</div>
+</header>
+<nav id="tabs">
+  <button data-cat="all" class="active">Todo</button>
+  <button data-cat="cancilleria">Cancillería</button>
+  <button data-cat="economia">Economía global</button>
+  <button data-cat="conflictos">Conflictos</button>
+  <button data-cat="eeuu">EE.UU.</button>
+  <button data-cat="europa">Europa</button>
+  <button data-cat="asia">Asia</button>
+  <button data-cat="latinoamerica">Latinoamérica</button>
+</nav>
+<main id="content"></main>
+<script>
+const NAMES = { cancilleria: "Cancillería del Perú", economia: "Economía global", conflictos: "Guerras y conflictos",
+                eeuu: "Estados Unidos", europa: "Europa", asia: "Asia", latinoamerica: "Latinoamérica" };
+
+fetch("data.json").then(r => r.json()).then(data => {
+  const upd = new Date(data.updated);
+  document.getElementById("updated").textContent =
+    "Actualizado: " + upd.toLocaleString("es-PE", { dateStyle: "long", timeStyle: "short" });
+  const main = document.getElementById("content");
+  for (const [cat, items] of Object.entries(data.categories)) {
+    const sec = document.createElement("section");
+    sec.dataset.cat = cat;
+    sec.innerHTML = "<h2>" + NAMES[cat] + "</h2>" + items.map(i => {
+      const d = i.date ? new Date(i.date).toLocaleDateString("es-PE", { day: "numeric", month: "short" }) : "";
+      return `<article><a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
+              <div class="meta">${i.source}${d ? " · " + d : ""}</div></article>`;
+    }).join("");
+    main.appendChild(sec);
+  }
+}).catch(() => {
+  document.getElementById("updated").textContent = "No se pudo cargar data.json";
+});
+
+document.getElementById("tabs").addEventListener("click", e => {
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  document.querySelectorAll("nav button").forEach(b => b.classList.toggle("active", b === btn));
+  document.querySelectorAll("main section").forEach(s =>
+    s.classList.toggle("hidden", btn.dataset.cat !== "all" && s.dataset.cat !== btn.dataset.cat));
+});
+</script>
+</body>
+</html>
