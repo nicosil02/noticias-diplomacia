@@ -1,7 +1,13 @@
 {
- "updated": "2026-10-18T07:56:35.673304+00:00",
+ "updated": "2026-10-18T12:57:51.638606+00:00",
  "categories": {
   "cancilleria": [
+   {
+    "title": "Cancillería revalora patrimonio culinario con libro sobre panes de Ayacucho",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR29qdE9sZnRudUlfQllRWDFQY3d6a3M4YUVZMzFjMEY3LTBDRHZBbUFBV3VvckxGNUI1RmhRNEZFN1pjd0Z1R3BlYkRmeHI2VS1DbzhYVmlVOGJDZUpnUmJINnhZUXpEdWVNLWFpT0RweVFhZjE1VlRjVVV1WlB2S191N0xrbnVldUx6MlU4ZmF3b0ZTbS01UkhGQlRLUFFEa3htUi1kOENvYVE5aEx1Skc4dVJ6UQ?oc=5",
+    "source": "Agencia Andina",
+    "date": "2026-10-18T08:10:01+00:00"
+   },
    {
     "title": "Cancillería reconoce a 10 peruanos en el exterior por contribución a nuestras comunidades",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzZZdDA1dGZrSDV3VHlvMjJmdnNfUG96aW10RFRtVEswSjc0UFpJelJiZklQRkJMWE9BOFdETlhzQm1VdVBiOVFnWTRNY0NjeXRjcGVXTEJYdDRDTTRRa3p3eXBrOENKSm5rc2xWSXRXRTE3NkVrdUVqd0tyYnF3Tll1b3pQVDBEbGFTN3RMVC11eUNKcU1VeGtuOE1ldC1WRTJwX2RvRlE2cEN4LWtCRFVIc2cwSGNUV1cwd2VHOFVDdlRsWXdWSw?oc=5",
@@ -9,22 +15,10 @@
     "date": "2026-10-18T04:24:49+00:00"
    },
    {
-    "title": "Cancillería revalora patrimonio culinario con libro sobre panes de Ayacucho",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNVcU1MdGRiUVFDWUVpb21KWEt2T3ZzVUluWjN1Z29KcjEwZXU4NDFYUmVpSE5FZDhreU04aXZXU1lkaG1aMmNHS1RYRl9ycmZRMmZwWWNiRzQyZnpwX3FfV0N2aURIRmdIeTA4VnRLa0w4bDJtajgxcEFXN0NmUWJGazQ0aUhqZXBVbTctN1JsZnZva0llTFM0eXh5Rk1BUXJQM09XTDhHQUdEOWpJOXpCTzBHUVFVYTl0VWhmTUp5NTBaSEo0?oc=5",
-    "source": "notiperú",
-    "date": "2026-10-18T02:07:16+00:00"
-   },
-   {
     "title": "Cancillería presentó agenda de APEC sobre inteligencia artificial en evento tecnológico",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWk4xTl9jLWtueGRnNXQ1NVpBaElYMDBYQkJtM2thT2FXMGUyMUxWRDIwQmhyWklrNl95RlB2MUxYbDVGa1F2dlBFbEY3eE9Ia2JrdWJ3T3R3T3NuaGxad2VVWEUzd1RiVWJqOUxydEIxekc0SWczd0I4U3U1WGNRdUhDbzJJZE1TYmdZQUxxSWZFeGQzZm80cU9UTnBUOUNHRjZsd1JMcDRRdktCYVpQTDJQN1MzZ085ZTEzRmw3UzBkVE1qX1RmbEhmc2czTUpWOUt1YWdsZ3E?oc=5",
     "source": "notiecuador",
     "date": "2026-10-17T01:45:32+00:00"
-   },
-   {
-    "title": "Perú presidirá reuniones de la OEA contra el crimen organizado hasta 2028",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlAyaWhyc0ZxLVMwc2JUbVhaX25oVlR0dWdNSXVTZlo2X2lUY3hhbWF3Y2tXUHBlZWhYbGVqSEpJUUFMOVZhSVIxWC1PUEVzSlF5UkdIUlFBS1hlT3Vaak5INlBjOU1CMFZxSXp5bGxISjliT3U4dUx4RVRHYjM0b1htbjlZRndKOVFVTFY1NXRwazIwMTQ4?oc=5",
-    "source": "Perú 21",
-    "date": "2026-10-15T15:37:24+00:00"
    },
    {
     "title": "Rafael Rey confiesa que le ofrecieron la embajada del Perú en España: \"No hay decisión tomada”",
@@ -47,17 +41,23 @@
    {
     "title": "Cancilleres de Perú y Chile bajo cuestionamiento: las críticas a su manejo de la política exterior",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT0tTUGlGbVFQQjcyMDdZa1FIS1d4VFVUS2RJVVpWNmFDaC1FV3RoQVRuLTlMY1BTdHBRa1RXX2R5ZXYwUjFNVF9HQzlqVXZEUWZGMWlhSHRsQ2QyY250c09NRVNwVVd4bDZWY3paekRMRnZrb25TeVc3ZzctbkFCMmtOWGllZk1zdzJwNVJMaXlxWXRsdlVNb0FiLWx4bXhNT1VjREdwTWxENkpxRGl6bmdSdnByeGkwSXdQam5MSGF1ZnlDczQyOHF3TG9qQ2NaWDZ1cEc1M0ZxNWZONVo3dXVFOXYwblMyZUN5UlRVMl9MZFlv?oc=5",
-    "source": "Diario Expreso",
+    "source": "Expreso",
     "date": "2026-10-12T22:37:38+00:00"
    },
    {
-    "title": "Presidenta Claudia Sheinbaum designa a Lydia Antonio de la Garza como embajadora ante la República del Perú",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONk4xMUp1SUxlbW1wWWw1QkkyMVdFQnJRUV9tWVhSSU5vVF9VQ0N0ek9ma09rallRY0lVdVNGUUNpRVg1WkFtLXpINXMxZEt6ekZZRXg0Vnp5VDgtUDhVTDBsaHd3SGpDZExydUdjbDVNNmFLeXZMWFR6Z0VDOHI1cWxwV2Z2ODdWUEdyV2M4NV9kME5lbnVEYnUwUkpMVkxlMWpWR3lhZmJCNzV5Qy1SaHEzZTctMzJnNzZZVncwSVFFaklZQjNTc3ljRU9HWHktS0RN?oc=5",
-    "source": "Gob MX",
-    "date": "2026-10-12T17:52:32+00:00"
+    "title": "Qué estudió y qué cargos públicos ha ocupado Lydia Antonio de la Garza, nueva embajadora de México en Perú",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNnVRYkN6NEo5TTZzd2FpWmpFRUluWk9zbks4c0dybGoyLXhVeEM0cnJuakprWDJnZHV5T0RVQThZd3BoMU9iQTlvaE5aNHhwS0JOZWpHRW1YWDJpMWt3TnR6QjFUWWgxR2E4N3g4WC1Db2tURnFZbUpNN21tRjYwMm1hYWJjQ1p2SGJzVmtySXkyMGVNczJKLXoxSjJHeDd6SWxYaXhseFZ2N2ZySEtaU0tjMFJnUzdScVVZVHpTNTlBRkxmeHlVd3owOFBCSWhOXzlNcmtSUDY3NzAwOUdLWlVB0gH8AUFVX3lxTFBoZ2lZYkYtYTZuQU1fa0VMamtmN0xub3lzUktwWlEyZEw3N0lYSkh5NnpjZGR5Z2JPaWpTR0JQT3c3T3JnZzhiWXpTQ2d4QTRWWkVyaVIxMWQxZW5Sc0VwN1c4OGFfamdzRXlFYzZ5YkJmaDh2MWxhSDVWTUJiYVpjajRCdnFLYkNXV1Q4Z0lSUGVKRHBYR1RkdHBUdkJyZDM4R2ViVkNRUGM3Q3JaRVRKMlpKMTdFcjJpMldET2EyNnJSdWlFdTNpZ2lpeHJTZ3lGc0RLNFVRblRvRmRJU1F0OXZHOVZIaFVRN2stMDBwRkd4U1l1Q0FwbTFkcg?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-12T20:56:00+00:00"
    }
   ],
   "economia": [
+   {
+    "title": "Conviene poner los ojos sobre lo que está pasando con la economía mundial",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkNZSWxNRkpMb1h0TDl5ZUpDQUF6VGtlR1g4MXJya21YZVR4TE95bkZXeV9oZ0hDdW5hakxnR0E2dkd2V2VjTExiX3JYaVB0cm81ZWVaa2VVbzJxeDZtVGJEVTd4Qzl0MlNhTHp5Q0NsSGxJOVdxV2EzcTdZVmt6ZndRSHlOQnhkZ283WVl5NC1XTnpPSlYxVllQQkNQSjZJOFZWQlE3Q25tMDE1YVlwODN1aUVMZ9IBuwFBVV95cUxOX3BLYUtjZW5RNGQxUG90b21fWF84anFPbGUtc2ZTclpnUDRJcU9Kb0tjVXJiV2VQV2dFd2M1ZWVWYWNfVmliQlVaUUtMMUY1NENHV2lRenlyckNib3g5bVlGdjNxQUk2anhTV3EwTEV6RXc2R0tHMDFBNElkZHhhM2NNU3ZYVGZvZDVFRHRaeFlKN0xNQzZwVmF1SHA5OW9DQkcxOGJpeGxiUExGSjNjVVFIbkxlMVFUY0tV?oc=5",
+    "source": "El Tiempo",
+    "date": "2026-10-18T11:55:52+00:00"
+   },
    {
     "title": "La doble amenaza para la economía global: el FMI alerta del riesgo de la IA y la deuda de los países ricos",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSzh5bjkxajJhYzljWmUyWUFfbjdfbzBEc0RxUHE2STVDOXRwTVZwQWRHd0xTT3J0YXRzUUpOa3VlVFRxWDR2MFJ6TlQ0eVNXaHFSVkViTGR2dGFndjNSVjR0UW5NY3lWQkh6NmU5cnUzNkNYV0hUTk4tNFRRRVRfUFpzTGhWX05nNm5KVjhZMElucUpBbjdnSlllcllzS1FWLWFhQjN1em9YSlVLeFY1Q29WbWwyd0ZjQUEzdS1sUkZfZVJvOU9UYW8ybUtZdTg3Tjg2U05yNGFDRmRnN2pObWRSRmdpSzR3RmFqS0xndV9FSjl4Q0FZS25MaWJWejNY?oc=5",
@@ -155,10 +155,22 @@
     "date": "2026-10-16T13:05:42+00:00"
    },
    {
+    "title": "FMI insta a América Latina a reducir deuda y aumentar productividad mientras duren factores favorables",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTUlPblROZENHQzZ4U1NfTW5sMzJMN3pVZTBPU0p6VDBMaDExY0JGTkVvaEpndjhmYm01cXlyNmN6NWJ2NUtoZWR6TC1WcmpOMURBYTRBMkZEWWxLdUd3UVFyQ2t3M2dBdkh5Uk5FNXJMWElsNUZDc2N2T0txOEo5cWIwc3U3NWVwYTFSLWhKNk0wVWt3aHBIU0FSQkJSbXh5ZWZET1o3eXVJamgxcVZVWjVCTzRfSEdsVEtNUThCMkxFMldCZHQwdlJYSlR5SThITG5EQmNQUk1ZZFBjd2luaFhrQdIB6AFBVV95cUxOLWFIRExXa0J6ekFGZjBIS3NnTkZDaFYzc2llZVF2NTJPaUdmQ3pneE0za0ZPTS1ON3lqSTdvTDhiYTRvY19MaGdDNlp6TFBwLVlhYk5jU0RWWkdTV3dtQm9NRzBjTm4ycFVyb1d2OUZDbjhHTl9Sa3dZUWFfUHVraHdDMmJSLTJnZl9lX25jdjdKeWNZWEp1ZUw4MFhkR2Y1SnJKR2VUc1RCVGtSMTljVTl6d0JhT0MzTXJQT1BraGpXY1dnREZQc2c0Zno3S1RVbzMtRU1uNGxCU2FmRTdTcHRTWUJBYXA3?oc=5",
+    "source": "El Economista",
+    "date": "2026-10-16T13:01:33+00:00"
+   },
+   {
     "title": "China gana terreno en disputa con EE.UU. sobre la economía global",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3FfTzdaZno1WVFjVE9EeG5jYU1xZXdidXJhXzNZQmZyaTdwU0d6N1B2LVh3U3lOZ3VQVENmZHFPcGUwX0xzTnlPXzA0LTBTOWN5c1Q2dm1pZDFBYl9mQlE0NFc3a2tiYjk3ckdpdVZ0dDhEYkVlT3RIZ21rTjFIVElNU1hTQ3hYRHFqWnAyeXlHRUV2WjFkVTZvVWdSaUw0WU9aUGdqUzdTNks5QmlWUnhFOFVOUQ?oc=5",
     "source": "Bloomberg.com",
     "date": "2026-10-16T11:39:43+00:00"
+   },
+   {
+    "title": "'No es sostenible ni viable': FMI prende las alarmas por la deuda y el déficit fiscal de Colombia",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdllHZ3I3V0JyQnVBSWduZUVqTnY1R3o3S2VDR2s4eU5UeklFSGRWaENfSURWdXVRVmc2NlROVU1PcXpmRmFUeWNOLXJHd2VhbHNweGo0M0EwNmp5c2lsQVBWNmZsazFNQWg3SFdxbkRVNWpVNHJZZGFDMVJHMVFjZlk4eUkteVFKUG5EYWJfN21wLTdPQUFoXzFDb0pvU3czbFgxOEdTcUdDWkxVTlpZdDZuOExSVHJQR3V4amlXNVhlRDhFUGR1aXB4elo3ejlUX1pHZ1FyZlkxN3JqNVHSAeMBQVVfeXFMUEc5VGU2RFY0cUJ6QnVlcDJMbWZBcTZlNDg5dGM3dnd4VzhCZ2RuSzdsd2htTmplWVhtZkxtcW9EWi13UGFPY0hSY3FKdUxYbHk1ekJLTVM0QnFqUXpXMGZQTnNpamQ5M2YzNm9Za0dGUmNCSjJNYTZkNHhyc25QNmZGU2h5dHFLQXFfTkZPX1dDM3RMVlNiQldRNk04RXpLaWRvX3pfNkZtMmVhXy0tRTRQMllBdG54X19QTUNia3YzbFlFa0pmWWs0Vm04T3d4ZlE5Y1lVQ25ja1FQQnhJOTIyTGc?oc=5",
+    "source": "Portafolio.co",
+    "date": "2026-10-16T11:25:30+00:00"
    },
    {
     "title": "Funcas alerta sobre el futuro del dólar y el euro: los riesgos para España y Europa por la deuda, la inteligencia artificial y la tecnología cuántica",
@@ -219,50 +231,62 @@
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU2tFMENTNVk2T2NXSGhBSGN0clI1cFdUTkhjUHhvQk95Q2NuZGpSZ3d6RWlwYnhZcnNHM2NPRmJWbHJrLThYdFoxYlJOalJGeUlZaVg5R0FFd2FvOG1aNUF0QW9IdkZ3SGU1cEZ3SzBtdHFkejZUWV9rU3JkNFRKSWpvUElpQzA5TnJKT0xfeDlWRXR3Rkt2eTR4SWJvS01JQTZOZ1hlbjA4V2htUkxSV1AwcjVyeUs4VWM0aUtZRG94cDRnbVc3aTA5TWdQUG5fRlo1S3dmSnNyWFJyZ21FdkV3?oc=5",
     "source": "IDNFinancials",
     "date": "2026-10-15T05:00:00+00:00"
-   },
-   {
-    "title": "La economía mundial y el arte de vivir peligrosamente",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUgzaEJYZHNpbjVLYXplTm5OU1RuS0o4dmhKR0tOT2pPU2toemhyblNGTVlxRnlFS2VSOTJPRGFrT21JamY1clNKZFVwMFFyUXRrSmgyZ3NSd09GV1AzSTlnZ0dKbHVYTTY1U191ZmdvUy1rVmJhMEc3MElrcHh6R1QxTVVWVXRCd2dQcERjOHU5dDZDMTVkbTE3eUo0R1lwRXp1emdyd0VJVUcyeFHSAa4BQVVfeXFMT3BMR2ZhbXNMbGtmY1BuUDdrcWhuYnJUMkxacmlmWHZUcWpzaXQzYU5QODUtdC1BZGJuOXRhUXZBT0J3NUJhR3BKQWZkU2xOUHZ3QmdNbXZKbTJ0dG1DUllZdWU1NE9UMkEtcGYxdFF4NGwxVW44WHRWWjNJOWoyV3RETkNOUElpdnI2LWtZZTRnaXRFY0xhRVRXMEp3VV9leWNRN0sxRTNxX3F6V3JR?oc=5",
-    "source": "Expansión",
-    "date": "2026-10-14T13:47:40+00:00"
-   },
-   {
-    "title": "El FMI advirtió que los ataques contra Arabia Saudita pueden afectar a la economía mundial",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOanBGd3Z5QUlReE10ZFpHNzRFamt0N29JM3A3YTRKZVprdVNNYjJXNDFvcGpwVUp5TzYzM3U1Z3NleDJFSU5qVDk2ZjZNUjM2VmM5U2F5UmFFLURmdUpzQ3BVcHNmZjVHNlBpa0VwS2VHcHBibEpna1BweTJZZWpnaElNc0RFVzBjajNCaXZnb0R4WE91Yk1GWm8wd0NwdDhLRUMyVzc1Tm5HYkJVb25Rd1JmNHlqNU94Q0tGN2RWZUZFZkpNVTk3WlhnM3JLeUlMck5vQ0FZc9IB8gFBVV95cUxQZ0xCb1JsNm9uRUZZaVhKQjR2MHJueE52Q2dYWDNETEFaOWh0bllJck5sSnlSLTlfQVlLZmJxWGc1Q280TUxkMkx4eHJzaXVsUnJZYWVyRlpCblBsRUNFZ1BPc2hpZ2dwMjlBek9FZllvUnA1aDNyY1d2SW85ZGlmcnhlaWFMd1FfNDlNTURyVmJQS0FQMS1Ea3B3bVdSZHVxMmFIZ29SNmZTeTVZWkJXQ0QtNlVrRy1HbGxHaGYwYjBOWTZ5dGthRS1oR3htQ2llLUUtYXA3ZW01RF81enVHRkVFRFUtOTNzbm9JdElfUnJPUQ?oc=5",
-    "source": "Infobae",
-    "date": "2026-10-14T12:24:00+00:00"
-   },
-   {
-    "title": "FMI eleva proyección de crecimiento de Perú a 3%",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQampTT2FLNjVZdTlnTk1raVBJQlBEMlFYbmFVWEw3WnAxQU5zbjFsWnNDa1IxbkRfSGJVaXRyVm9uWkphU3RBR2lnQUVFNncyTUFLMHN4ZnM3OUJ5aUJhMWduQ2s2UGRiZmJyWFdtblhoVENNc05YZDJzc0dtaER3Mjd3bEtIOENXUDZV?oc=5",
-    "source": "El Peruano",
-    "date": "2026-10-14T10:00:00+00:00"
    }
   ],
   "conflictos": [
    {
-    "title": "Ucrania ataca San Petersburgo con drones dañando la principal terminal de petroleo de la ciudad",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeS1LUWpleGlzLThyakxXaFI2RUZFMG5XZ1Z3aHFDYVZUYkRycFB3YmJFUUZSc3ZKaGpwWVJpYnd2QUU2SEpiSEpFUmNpWHdEcFctZElFUTRCaHk1azkxMlF2TGs5YVFaZlB3S1IxWnZBbDZsVzBIOUFKNTJVVFo5TDlzZG5LRENfTm1VLW1Zc25HVGZycEZuc0N3MWtsX0N5SGNJTVpZblk3bV9tVDFoUWFwUGtxTjA1MnZqWndRSGxMVUdCZ05CSlhpZmJhWHVJN01QTUlrbFhlb1VZN00tT2pyNWp2Q3lubDFzcldVd3BreUNOWld4TDhPVzjSAYcCQVVfeXFMT1NlM1dUZXpubEpuLWI1SzkxNnJZQ3ZEUENfXzRfUzczdUlRdktReVFheWVkU1BmRUt0TENfbzFXZFZMV29JOHZMN3k3NVlsSjljaHdsbGRLbDRlRjg1S1N5R2ZUYjdKR0t2cFU5cl85ajdmUXMxUW8wVU9Yb09yLXY3RnFxdmZfT2Fkd04yMm1FNnZyeHdnXzVIeTllVk1SYWZtYi1lLUhSYWZfQWtVd2c3SHZZTUJId0QwaUpmelhPS0tsN0FVOHR3TnFkQlZnTy1nS2ZVNDJ6dUlqR3dqMVRlUUpLVWRTNXBYdENaZjBOd25haFZ6Um1qbHZEYmtGQnVmWDhXYWs?oc=5",
-    "source": "Libertad Digital",
-    "date": "2026-10-18T07:43:22+00:00"
+    "title": "Ucrania lanza un intenso ataque sobre San Petersburgo y golpea una terminal petrolera, un centro de datos y un centro logístico",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZjBmU1V4cUE3djZQMHA2UTlkRllyZ2kwekF2VTZFLTVxejV5U3JvME14aS1BZ3M4SE9JX1NPd1NjeHVRcmV4YmxidS04MHJUejhITjllbWdBOFVOQ1Vpd1dHSTdNT3ZISDYtZ2JkRmtJUG1MYjEzT3NxOGFRbkVmQURFSl9XMmxqczdQa1hRZXR0RTlGNzVORDBhenJFaTd5RjQwRXpLWG1nekxxRE9ISnhLelFoVldKZThuUXU2c2MyaGxhM28yV1hZUGtmSkxJcXJBWFp3ZkZ2c280d0FjdlhRX2I2YXNlVVhxcFcyY3NyZnp4Szd6OVBJNk16Y1I2NjFLNUJ30gGaAkFVX3lxTFBjUEo4V3I3aWpNTVVEYUtZUzhNY25IMnNvSzZsaGFUb2RkYUpLUGN4YkdoVFE1MkliSnZzT0hKei0zb1NtTXhKallzRm92SUowZ3hJbmd3Y3N0U2k4a20xaV8xSEpCeUdTTm9TR3dyM3VDWWc3WF9pRmZLNmRmb25ER0tibXZnUVRtMHZTNjRkU2dhTG1JbGw2d3hGZ0VlR3pfbkEzRjV5RGN2WE96TnhRMnFIdm5rSVhLWHdCQmpDb3owdGx0TEZrZjQxQjhWSUxiQ2lCLVpwM2Fzdnl5R00zMF9HRXpGbjBuaFlubTVGSU5XbjRSWjlFa0x2RExiTlZjdVFlWWFqOEYzbXVfRGhHem5oUmlEY1UtQQ?oc=5",
+    "source": "EL PAÍS",
+    "date": "2026-10-18T12:14:32+00:00"
+   },
+   {
+    "title": "Los países del Golfo piden a Rusia que presione a Irán para que \"cese sus agresiones\"",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdjExYXhSNlZ5b25lbDN0QUVFZnNBdHptWjR5NlJjbTZJTk1feDcydkFxc24tcFpsSkJqbnFFbmdiNDh5cnNBd2xKTUFfcEg0anoxbG1NTjh4UGwzQ2duVTVHMkR2RjBBdVFkN3hBVDAzZW9lTUt3WlFOY2VXd2tRZkUxVGJxWDlPR3VFZV8xa3FBbUNJMUwtYWZ1WWE1QXFoWDdpcFB5WmZfVXBNbVpva1U1OW81eUh1YzBGUllDdEJSN01samRjZGtzbmttellTU0HSAewBQVVfeXFMTWpHWmRTRHBaLVhPejFVNFkyemd5WXVOd01td1JleXVKU0VwajB1U2pWQUkwV0VpeXRHLXlHMjRRVjF1R1V6TzQ0WmtqMjZiNVB5YVFaWkNnM0ZORGNsT1R2amNtZWJWUnhrTllWY3Z3b0ZoMkVpWTk2Und4SzRqc2pNenNJR2ZGZEhTVHQ2N0ZzTnpBNm1HQWdZYllybU1UWThObTNNa3R0em5obHBsZ1BwaTAyMkotUUd0YzMtQmNGMFpJNE8yeTE2VWpMWjNaN2E3S05SNF9EZ0ZOd0tDNGh4M3htTXJiYUt3Q24?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-18T11:58:00+00:00"
+   },
+   {
+    "title": "Ucrania lanzó contra San Petersburgo uno de los mayores ataques con drones: golpeó dos terminales petroleras y un centro logístico",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNkJuRW5yZGZ5VlhHYWhuVnNsQWVzbnFkZzVxZUo5OVQ2MW5qcEFKaGlIemZ6UFVtdFJxMlZ4cndkWDBtcmQzZ1Z6elczbXN0a2VrV190eURydy1iX0hQRV81Sk45b2tKV2JRVEtQSUk0dEh1d3B5ZW1NN3ZWTG5EMmRKUzJjSFdGVHdaNG0wMkN0WjhJSU0xMnRzRi04a19vaW03RWlIbUJ4OVNkSEYxcURoWDdFNzBVaHV5WV91Z2ViT1dUSC1jWWh5RDY3RFlBNjlYWmppdUsxRmRCUkFITGRBQnNDcm4wWUNzNWdkZVNoOHJmZlZ2VE01YVdmTkVUVjJaNTJXdGdjdkHSAaYCQVVfeXFMTnZfMkxtVUNpWWdZSmEzU2FJRkNGaWI5VFRkTldoN3d5MTdkdk1CWUJSTVpOSVVyZGxBUmNHZXkyVnFkUmc2cXktd0R1QWlZLVBJVDRxZGR5T3JVWEloMUwta3I4TDdjc001M21ObXZCTjJGODdpSWV3azdId0RVYmZKYjRxT1NaWU5lMldDel9qVk9KMktSMHo5RXZPdnZDY0RyRE9SQmZGVGQ2bjFYbXV5eTk5VXRTeElQdWtmWHJWRWF6bEJ4d2ZnX25nVUtmQ3pyZTd0Vi1zalRrN0dHQndqZ09IWDNxVWdPNklJZHdkNXpUZlJjNmJ1Tk9MMEtQeFhUcV9CWGU1LU9mQ1pHRFo4WmMzNVdVV1FQcHdZWnhfQ0hIUGpn?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-18T11:35:01+00:00"
+   },
+   {
+    "title": "Guerra Rusia-Ucrania en directo | Zelenski insta a EEUU a darse cuenta de que Rusia no quiere la paz: \"Debería ver que no está tomando ninguna medida recíproca\"",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelVwVU1tUFJiNHhjZjdWMmtkY3V6ZzJBMTRCLW1tSk5jRzY2cEZCNHNaMUd6SjNOeWlKQ1EtR2ZaSDRtTkFSYXFNdV9XM3dUeU1YTXNLSk9kMldFb2NzSlN5aEx0anlrLTJEc2xKQ2RuczhKZXNUN2RwMVhQQnNnSUJBR0pQV3hPNERfejFQWkgxN1M2cUxra19qT0d5ZE9IRzVmelpSQmHSAagBQVVfeXFMTThQTkNvc0s0bWdNdHVkcW10ZC1VU0lPcDVUOXk4ZjMtMzVmQzdvRjVSWHBvVjZpak1mdjBjT3VGSTcyT3VIRnVGb0djUzlFWjduZ0s5cmZvTUcwZkxkWXhaMmZGUWRiblFXWnlPRVBuYlAxTmJVbHViUmdoU2ZoY2dSdXRzMUx0VUQzUkoyV1hSWnM0SGVaM2lZRzV5QXBCMXZIR01ZdjRN?oc=5",
+    "source": "LaSexta",
+    "date": "2026-10-18T11:29:51+00:00"
+   },
+   {
+    "title": "Off the Record: Trump culpa a Zelenski de sus errores",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNWt1bTNfeFFpc2p1Y0VPQ3Nuc3BBSjRBX3NIbEp3eUZ0YkkyYVV3d3ZoSnVHWW54UVBOZkJsRkR4VmZ0Xy1TcThRQ1FvcHkzSWVkZlB3M0NDVXBTOTV5UFlMbXQ3Y0V6dUxGN1hqd1ZkS3NpT2VXRTBxMHd5UmR4YW1iMVhIN3ZhanZvdlFTci1rRmY3SjdDNjZmRVhWdXNESXpMMTlFWG5ETy1kZERSc1pFR2Nic3J6VnlMZHpJZlJCQkk?oc=5",
+    "source": "Euronews.com",
+    "date": "2026-10-18T10:43:56+00:00"
+   },
+   {
+    "title": "Instalaciones petroleras arden en San Petersburgo mientras Kiev lanza más de 1.000 drones a Rusia",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0YyZG9ORkVvclpXdjVrQkNaMlM1ZEpSbDlwd3VFYkdvWTN0a0FFOW1yUGhLdlFrUXZJNXk0MUdmY3pvQUVBQWtQZndZY1FUX2hGSW1MV1kzb3ZBSUZ5c2F3eF9mTkFTZS1OV2c0WTRXQ0tYdVVMNmdfbEs3aUZvM3U4bzUzSW9NU1YzTDVlYlhMajlJeVVsMXNKbHh4bGI1bFczeXVXTGZoOGZQWFYzVUI0emIwODFVdHJFOUp3NVJFMTF6?oc=5",
+    "source": "Audacy",
+    "date": "2026-10-18T10:04:00+00:00"
+   },
+   {
+    "title": "Rusia redobla su guerra híbrida contra Europa y la extrema derecha le tiende la mano",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ONWNmNl8zdlp0cTBneDczZFZ2ZEpJd0hhYWwySGtIRnU5VzQ0TTQ4bUEzVTF0N0F4YlNPblp3a3oxdlVaa2Jfd29qYk5BRHR2c21GMnV5YlhaMXhTaTBDQkkzcFpCRENDNlJVeTl4UWl5MlRzQ081YW51Zw?oc=5",
+    "source": "El Orden Mundial",
+    "date": "2026-10-18T09:11:53+00:00"
+   },
+   {
+    "title": "Ucranianos desesperados arriesgan su vida al escapar de una ciudad controlada por Rusia mientras caminan por rutas minadas",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSXBSR2pxNEZ2dzd4NTdjRGFHWGtmLVB4OWRCRElvMDZTaFhhYXBkZVVZYkU2YUk0djhUZHk2alB5bVVPWFVRWV9HeWZ6WWtGVk5EOGoyYTFkZWREQ1pSUHh4cER2N25iYWdDc1BxRUU0YUY2OEEwWjJVUTZtY201dEdhb0FnVlg0aUVsTVJkN1RSU3B3SERJWnY2Zm5FdEMySjRRQUM1a2RJT0tjc25hU2p2cVYzczIzVGR1akxkT3Z4M3dOWml0cUc4UGMwdmhlSmUtbHNCcGZMc2RYQVU0cUtSMS13RlhQOENSWFQ2Nnh1Y1RmWl81cElmQ0ZpME1VU2fSAZwCQVVfeXFMTUtYMGJJN0xnYXRhcWg1RURPYllMUmVybV9rMDEwakV0bVcybW1qaUpKQkI0ZUxPeVZlR0JqM2xNYy1GM1lKWVBjRVNtWkFUQzJIQUJwZk5qdl9fYXAxWGkxZlBvUzVNdFhfZExDVlAwOG5LSjFxY2NjekNkQnhfMmlDVlZBaldPczJYRnJSbk5LVlp2OU4tb3NkZGdIWi1KaWF1MHp1TURlWGJrRVR3aUl2M0pTQUJvbHdINXZWd0x4WmoxVjB2U2xmQ3RaSVIxclpZUlB3XzdwYnNQUjVQMXNoUEJvSUNONGdnSnRpYm5NS3hocFdqeFl4Sll1b1lvMzNtb3d6a0psX19QcXk2SE5uTVhKVWhkd3Y4akE?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-18T05:10:00+00:00"
    },
    {
     "title": "Retratos de la generación sacrificada del Donbás",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk1fazRnQkdUWmktU1FZUFFRUy1TSU80V2FKZTExcUJhNGJrSWctVjFUcmdRYnRkanNPT3hYM3JyUGVJeW5hS3RnZXMtLWFWdnFFOGNFWU5UUnFrOFJjeTdob3NSLUFuRVJkcGl0ZVNaYlphcFU1TWxrVXVpckw4WEZScmxSOXI3ZFR2LXFHU1UycnM3SlFN?oc=5",
     "source": "Le Grand Continent",
     "date": "2026-10-18T04:30:00+00:00"
-   },
-   {
-    "title": "Terremoto Trump: levanta las sanciones a Rusia y expone las grietas del bloque occidental",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmZqVjFJajRoelFzQTlxdEUtcC11QnhucVFqZUJZUzF6QVJlekVERTdIbGlMbWlRc1hJZjRmdHRzSlZWeFpFMXJmeHZFem11aWpOYTFsV0ZhTW5hVTVObGtWTEt4YTdOMDJEbTlFemFLOUlDaU1rTHdXY0kwUjg4SnZXeC1sM2pVeGlDZXFVdXhhRjQyeWNSR1ZyQ3JPS2pCT2drTFJ6WDZRMGtkODBqcXZfN09tWS1KY2hxangtakcyZkxpVW9UbEd30gHeAUFVX3lxTE55VmY1aDktX0VNU1FOeHNPZXc2Mk5nUmNPZWwtS2xreU9ocEl3UVhvbEZUUTk1TW5ZemFqcjZGdGczMGdMemRyYm5VS195eGYtTFNVbnhlMExvVXJBcVp5LXA0ZTZpanNQeFhZUDFPY3MzMmJDeEQ3b1NScHBfZ21RRncwVU1TNW1iVGNGRUJvcC1ERmFpUl9IamFhb2tfaGdXWkk1bXNwTGJIOUxEdEw3dk03YUx0VV9nZnJiemIzcVNHR1B2cnVKZDJaS0tsbmNoRDlaTjA0eWVISzJxdw?oc=5",
-    "source": "El Destape",
-    "date": "2026-10-18T03:07:09+00:00"
-   },
-   {
-    "title": "El Papa en diálogo con el presidente de Rusia pide un alto al fuego",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHdwcGR0WVo3R2RsWGQ5OGVabUFEdGJsSVJ1WUFmdnVUamw4WjhsU0JOVDZmV2tDNkJKcWVOUnF2RWtPdW9SckhkTFRiWEFQeHd3blY3M1ExdTZmejQwRkNVLW91QkFnQlNZdW5ZSnU1ZmVwNEZDcUkwMUhWMEl4MnhENWl5ZGRKR2djT1Jpbk5CR3U3UzRHU0FSa1VyRzF6c05fZ2w0VTY0eTY2UXcxaFYzMHFiOVE?oc=5",
-    "source": "Vatican News",
-    "date": "2026-10-18T01:34:47+00:00"
    },
    {
     "title": "Trump suspende sanciones relacionadas con Rusia antes de que entren en vigor y provoca rechazo en Ucrania",
@@ -281,30 +305,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3BmM1JlY3UyYkZ4a2lSakdIS1RxUFZfMlR3NU5FeVVaQXhqaXV2eXk0eG4zRnFFbDZzck9ZemJZREdZTDJMcGNnR1NDWm5WYzhnUTFnenNvN0RDaWxHY3dNbXY2MWxscWJobkYwOF9ZMTd3a2lKdVRUTnFFbGlxTWtORlluQmNB?oc=5",
     "source": "AlMomento.net",
     "date": "2026-10-17T22:27:32+00:00"
-   },
-   {
-    "title": "“Más que irresponsable”: legisladores critican a Trump por suspender sanciones a Rusia",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUTJ5RjRoV09tOXhrcGJwTW1PeFMwX3h3R2NiT1VFOFF5VXlZWXhsYkJQUDRNbjZkVVVPanY0aThDZ0tWcUZsMXZiajgwV0ZkUHNGNjZWWFVUVXBxZjVoZzNGc1h2OUlBbGwtamJTaE1UclZ2X3lZN3EzTHFvX0hSbjhZV1dqSm5QZ2RxUVJmT3pIaDVnbTVxSkh0UHpPa1JJc0lhVlpWVFJ2Q1JadWJNSGptVEEzcEhvTTF0TXRxaUw0WlpiblgzalhoVWNyZ1FKWDIwUXFVSkVhQzNsM0xRdV9teXU?oc=5",
-    "source": "Telemundo",
-    "date": "2026-10-17T21:20:05+00:00"
-   },
-   {
-    "title": "Volodímir Zelenski teme que Trump \"continúe\" levantando las sanciones contra Rusia",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMXk2X0VvVGI0QlVLT1BFMl9NTnQyVkVzWktJRk1pZVJvcktwelM1OXdFV1pVZnNLV3JjY0Q1eDhfZldDSlZaNmxkYkswZ2czWHZubTA3MTJQR093VXJtUEhPcVg2MFllSm1sY3VWTzBHal8tNkVrejBYaDNHcnVWS3JQdnp5T3JtSVR5UnRhV3pHd0tqakpQQnd3STlQeTVkMG13aWFKaFJHODd4OTctU2JGN3ZDdktzWGwxdU1TeXVYRk51eFEtOGx3bjB4LXc?oc=5",
-    "source": "France 24",
-    "date": "2026-10-17T20:52:00+00:00"
-   },
-   {
-    "title": "Ucrania desarrolla robots de combate que viajan colgados de drones y caen tras las líneas rusas: Brave1 ya prepara su producción",
-    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxON3RQeFUwM0tEaTNQREdKeVozNVgyLUZOWW5XTjZiM3NWeWNOZGhuUUR1RFdQQU51a2dqX0tzcW5SSXRGZ0lvaVBjQ3VkRm8wS3pSeHlVOENTdHdNeFRUWDh2eHU5WXRqZ3lRdjJKdHRkU29jMjlfZHAzX21Ecjl2Z2ZDR0JrQUNwckNmLWlQVkR3WERlMnRxeW50eDVEZGVzeUpmbWJKTUhZNmNwX2xQdEdvQ0psd09zUWJDM0o3TUdfb21iNEl0RjJBZjVqSWI1TFNLSlVpeVlMWEt3RXlwRUkwOFR1VXExY2p0ajVMSGh2ZTJHemlPTk5tSlk0ZTBIY2lrNmF0ZTRwc0l5c2VQV05GQVBpS2lrMGh6Y1Z3?oc=5",
-    "source": "La Razón",
-    "date": "2026-10-17T20:00:00+00:00"
-   },
-   {
-    "title": "Ucrania lamenta la decisión de Trump y Rusia la califica de \"histórica\"",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjFGUkV6cmR3UmJiLWhsSGJ6S3h3SjBWak5xUTh5SmJyVThfOGE4UG9ScDdFcHJPaS1OZ2tXRFNhd0p3STdTZkJjbnpaNnhKVjlYVkc1c3ZIelhnc2NlNlZpbU5iaTlxTDY3VlFfbVQ0b3ZqdXFBVlhNNEgzOU1INEwyN1RqclQtSjc5ZU10Nm1vUEtfZXh1WWhVYzhNZGZWWHNtd1VpcFRabWE4Y2FHUExhN0JRZ1AxSzVKeE5sWl9FUnIwaGMtQTFuTlRLNm1YYUVUSEdpdE1JUXVSc3fSAd4BQVVfeXFMTXM2T3VMdGhKemJKQU9odE5LTFhnU05yODRCazBZdS1fbTFUeEZ1a3U3TERkWHNQdHIxS29EU1RTcVRQZ3l4R05iQ2F0N1JweDNMVXp5aHR1bXRLSGJvSnQ5NUpwNkpCWU9xUC1kQW9JYVQ5cDRoemhkTmJNVDMyS2w0cThsVndmVGtvY1Y5X2c3RHdxaUVPVFJTQzFWelhTZDlmUnVEaUZ3ZjNrazVEVVBjUWo1cWdJckk0MzRZZ1FzcVdyR25zRGdRNzNLZWlNYTJza3ZlNEdhQkh3WlZB?oc=5",
-    "source": "DW.com",
-    "date": "2026-10-17T19:10:59+00:00"
    },
    {
     "title": "Zelensky cuestionó a Trump por frenar sanciones contra Rusia tras ataques a Ucrania",
@@ -331,6 +331,12 @@
     "date": "2026-10-17T15:24:00+00:00"
    },
    {
+    "title": "Ucrania lamenta la decisión de Trump y Rusia la califica de \"histórica\"",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjFGUkV6cmR3UmJiLWhsSGJ6S3h3SjBWak5xUTh5SmJyVThfOGE4UG9ScDdFcHJPaS1OZ2tXRFNhd0p3STdTZkJjbnpaNnhKVjlYVkc1c3ZIelhnc2NlNlZpbU5iaTlxTDY3VlFfbVQ0b3ZqdXFBVlhNNEgzOU1INEwyN1RqclQtSjc5ZU10Nm1vUEtfZXh1WWhVYzhNZGZWWHNtd1VpcFRabWE4Y2FHUExhN0JRZ1AxSzVKeE5sWl9FUnIwaGMtQTFuTlRLNm1YYUVUSEdpdE1JUXVSc3fSAd4BQVVfeXFMTXM2T3VMdGhKemJKQU9odE5LTFhnU05yODRCazBZdS1fbTFUeEZ1a3U3TERkWHNQdHIxS29EU1RTcVRQZ3l4R05iQ2F0N1JweDNMVXp5aHR1bXRLSGJvSnQ5NUpwNkpCWU9xUC1kQW9JYVQ5cDRoemhkTmJNVDMyS2w0cThsVndmVGtvY1Y5X2c3RHdxaUVPVFJTQzFWelhTZDlmUnVEaUZ3ZjNrazVEVVBjUWo1cWdJckk0MzRZZ1FzcVdyR25zRGdRNzNLZWlNYTJza3ZlNEdhQkh3WlZB?oc=5",
+    "source": "DW.com",
+    "date": "2026-10-17T14:10:59+00:00"
+   },
+   {
     "title": "Volodimir Zelensky advirtió que Rusia busca dejar a millones de ucranianos sin luz ni calefacción antes del invierno",
     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMFFsaTMwTUFJUHNUWkJpVldGQ1F0VWhpcUE2NGRGbk4zaTRZamVWdGhIdlFKY085MllaVlZCa0hMUjJta1N3M0l3dUxaeUpnMjF6SlVQcnpVV0hmdXJsWFZ1RU1TemlYcHluaFhRWnIzWm54UzBmV05wUEFqM0FRSkdFQmloV1YyNzdHVXVrY0t5dnBIN3daTEF5SEYyOENTRWFZR0V4TERkZHRIdXMxdGs0VXRDUzFmcFZia0VUSkhXVk5aODM4a2RHS2hKMnlaR2EzeEVDdlphRjNUZzR0WWRJU0ZxOHBtY3M2S2NDcVVfaEh0LU4tVWpn0gGUAkFVX3lxTE41SDNLMHJ0VW1pWEdub25LNlRNUmJ0WnJHUVl0cG5jNGRZSE9YeUtwMS1lRGM1U2cyeEpaamFEWGd2STgxOWcxV1lkdnk3YTBVZTNjcUF2cVBkbVh4M1dtQkp6ZEx6NWVlM2ZDOGEtcjJTRUJkUnFhdjYwWldqYXZLSjU4eDlZU2xoUVhoMFZVLVVjbktVQV9ybTlyYW5DZjViSHloVVBQSGRJc0dyRXRBQ2l2anRIZ0UwbWMycjdRVnVTbE9UbXcxbjNUVEpId1VMVWFGVmh5SWk5TGN3UWhZWkpKVWFIR0doNEkzc3B3bHdiUzhlZWJONV9SV0czNjZRUTZHTEZ5VXVwb3BJQUEtSnNkTg?oc=5",
     "source": "Infobae",
@@ -343,12 +349,6 @@
     "date": "2026-10-17T11:01:00+00:00"
    },
    {
-    "title": "Petróleo, satélites y traición: la ruptura entre EE.UU. y Ucrania que beneficia a Rusia",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSzZGbzBOQ1NlSzhYUF9QMm9RVGdYbmNzUW1tek8tNGl0Qm9jYnU5LU5IeHNweGl0S2ltVkRfRllsVUFCTjlzQ2xyWHl3R01CNmczbnBickYyWHVWNVI1djE2Zk5fYXQ2YnZyRFROREVFYVZqbVVJQWdTSzJtX0I0MGFCd0dXZmc2Qy1XQkpNWURReU5DUUNESjZ5MjdSQ0FTUWkwUDlqZ0Zqazg3OXFPRFE2cFlCWHBBeUFHX2lLMnhnVnB2dTBxclgzdnN5bWlW0gHWAUFVX3lxTE96bFl2X1VZbUwzTkRjQThNUWdWMUt4WG0wTTN6bndUVlI2T0RkQkRLVGJpR1pJQk8za1lFZkg0WVNCVS1URnhLN2ZOSWFGVFBJcEdXaTV1R3QtS3hRVl82OHRHaFpmcXZnLW5MdFpVVk4wWWpDUVpuX0Y4a1VlM0NpelFhY1dXWXJseFRHbHUyVWQxdmdkRnhGdXA0Zi1Db1FyMlpzUUI0ZXdJVnpBRWlQdi1fZDlLdFA2c1F2Z24zQ1ZTNjBFdTYtdXZLYlFYYzM2cjBidkE?oc=5",
-    "source": "Perfil",
-    "date": "2026-10-17T09:27:30+00:00"
-   },
-   {
     "title": "Alice Weidel pondría fin al apoyo alemán a Ucrania",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFdXeGNKS05Vb2lKZW1CdVc4VHc4Y1RkNm1iQktJaW9Ncml0alRhRTU2Z1RxcFNhRXM1bkJXaW14UkFTS2dHWmZNQXlsNVFOSGZnalFOTGcteVBLYUpOU3dldlNJN2Zra2tuSFZBUXA5SVpiRFAwVlo3MmxQZDJMZUFLMWRRZ1U3M2N3VXM2RTRDbURhMFUxTnRxS0nSAbcBQVVfeXFMT0J4ZUdCNlNlclpHSE92OUtoY2d3OF9CUkVDQ0RIWHY5QjB5SnE0Y24waURFSi03R3RRMkZ6RHVURFBGLUR0X01EQ1o2TFlVQnJIS3FqY0VQWUJydGplNUVGZUFscEJOYTAyeFZFaENFNXA2XzI4TWVydjRzMHVOUndILURLMnh4WTVNMVhPYzRad2NmWmEya202X3RoelR2Vkg0M2dMMkpQVnA2RUNqallHRW1pS1pF?oc=5",
     "source": "Infobae",
@@ -359,12 +359,6 @@
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUnFlcXFTZW93SDE4UmRnNHpET2FsZUpDazNtUHpPVG5QSkRTVkI5SFNHZHNoc3BJa0x3SU9rYzR2TXJBTm5aa3A3b3ExV055d3pFV2dGY3FpQ3VINGtzc19EV0NoWHJlMzNQT3Y1OUs3X0FmYVlacEZBMjNXV2tWTjVqWmF1eFBPcDZUYmt5THhJdjZOaFpOSFl3TW12cHJBcGpfWUR5SE9lRFk5eHl4OTB3TGphX3hWLV94S1RnUGJoVXN2czQtQ3QyS21sR0ZMSm9jazUwVTRDOTBzNmtqRjdfR2cyN0FOSkJ0ekh5WkdtY2hLZEJ6ZdIB_gFBVV95cUxON0txMUZvUUpjTmhrRjZwT1d2YWlsZVV3S3p2MW1wenFxajJtWHV0eG1kNERURHk3Vzg3NnRYMTI3UHhTX3NnRC15eFpqeFR2ZktWX1FiLVpKX1pGdDFYZ3F0VWZqNEpKUGUxQ1FrQ1hmVnJBa3l4aXNQTnFETVZhejZ3aDVXeU81eG96cWJaWVlqMFpfUTJrcFdLcUVNRzIybW1TRm1PX2lZUXJ5UHg5VUI5ZXI2Tml4M01qT1RqaDJFWGxhM25kZ3haeGlFUTFyRjVNSkFlLThaaXZKakJ1cV9mcU5EdXRuSXl6SUljRXJYYjVncENHdEhITUVNUQ?oc=5",
     "source": "20Minutos",
     "date": "2026-10-17T05:50:34+00:00"
-   },
-   {
-    "title": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDdTb29BX3UzenFNNXVLc3NoLUJPWUk0aEVyQll6dV9CWk5MdU4tYm5Ld2tfUzUzTGZNMWNUVlg5X0FGVHktUzZJcnBTRGdKdDlMbmVyLTg3WVlwWUx6dS16RTBhbU9VSUpLcHVqX2xYYlNuYkE1bEhoalNnT0M2LXYxaFlxd0hTR1plckExZ2RJZkxFQUFESzZIblFiV0tvRlJwdl9tZk0xTnZ2bWJr0gHDAUFVX3lxTE5FRllXcDkwUDhFcEptQTBla1AxeUlqYW5CMmR1M1JabnZUTXB3a19EZzVPUmNmaW9EakI3SEdiRWRGenJCX2ZVMjBtUnozYmkzNFBrWFBrcWhEVWZxUzd0ekJoQ3pjbVU3dUVJUDJ1anZSUjVraHdFMkFHSVJrUlhISFJKbFJTUlVwc1ZsN29DQ1dtOThFa3ZPMUF3QzhuVTlISGhDZmtjcm1sMFEyXy15bzQ1dzNfM3kxLXNiYXJNcDVYRQ?oc=5",
-    "source": "EL PAÍS",
-    "date": "2026-10-17T02:40:36+00:00"
    },
    {
     "title": "El Ejército ruso anunció la toma de Dobropilia, un bastión ucraniano en Donetsk",
@@ -387,7 +381,7 @@
    {
     "title": "La amenaza de guerra de Rusia: ¿está preparada Alemania para enfrentarla?",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdE4xazZWY05adV9Hb1NuVURTdlBrcXFaUVJmNTJXbm1pY3FCdVlvLVhwc1pyVVlBRDJQLXNfUjhGeEJkTlh4eU1qV2RyMVJPQVozdHE4Mk5RVWUyZVV3bWNreFQzbjZhTmpxenVPR3I4UmJfVk1JcEM5cEwtNGY2SmVzZEJ2d1lCWVpCWTFQYi0tOFRkZTJTVnAtZVNoTjdEYk9tZFFXZ05CWmNCdV92N1JIVTJlZl9L0gG4AUFVX3lxTE1wZGJnWnBGNWtTd0pWeDZwSGljWU1IYVpUSm5mQWxldzcxWHZzUkV2SW9oMzJIWWsyVXFGMllZelRlZXJnR25pNV9FR1Q1bGRwVkZaMmRwWU4welZ3OEdCc0MxWWxEVDNxT1VVR0FTTE9PV3hzVUU5Wk91NERabTR6Zm43SzJ2eHlIVmJZSDhvenZrSE0xMVdpU1A3bVBkQjB3WWo0YWhCVmw4eklqaURBaVRkMXZkaGQ?oc=5",
-    "source": "DW.com",
+    "source": "dw.com",
     "date": "2026-10-16T19:47:11+00:00"
    },
    {
@@ -409,19 +403,55 @@
     "date": "2026-10-16T15:52:35+00:00"
    },
    {
+    "title": "El Papa en diálogo con el presidente de Rusia pide un alto al fuego",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHdwcGR0WVo3R2RsWGQ5OGVabUFEdGJsSVJ1WUFmdnVUamw4WjhsU0JOVDZmV2tDNkJKcWVOUnF2RWtPdW9SckhkTFRiWEFQeHd3blY3M1ExdTZmejQwRkNVLW91QkFnQlNZdW5ZSnU1ZmVwNEZDcUkwMUhWMEl4MnhENWl5ZGRKR2djT1Jpbk5CR3U3UzRHU0FSa1VyRzF6c05fZ2w0VTY0eTY2UXcxaFYzMHFiOVE?oc=5",
+    "source": "Vatican News",
+    "date": "2026-10-16T15:44:06+00:00"
+   },
+   {
     "title": "Víctimas del conflicto armado en Colombia, temerosos por posturas del presidente sobre acuerdo de paz",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2oxME9EY3Y4bV9KcTVmcUl6N21ZWTdDeldVM29aVEE4VGFGM3Y4U0p1WDlLenE0WXZ0Y1RvWmh2VEZrU18yRkFrcVFvTG5icjA1RzcwblN1RTlPSFRPZmtvRFNjUFI4VkxFTElBbk5SZ2RrRDhBMkEwVmlGaXE1TTJOelJ0YTJSbjEwSk8xbW5PNVNhaHNoTGNrRmc3Sll1cmptcVpyT1FFRWVteWJuY0FhOHh2eVJFQ18wcA?oc=5",
     "source": "ABC",
     "date": "2026-10-16T15:42:32+00:00"
-   },
-   {
-    "title": "La historia del teniente ruso que entregó datos militares a Ucrania y causó más de 300 bajas en las tropas de Putin",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbTVaXzVRcC1ScG1FSE4zQjUwbFNXSmpJNy1JTFFVYUtkc0I3eExUZHUweEh1LUJIZ3BaMGdOYWhUOFdwUE5kX1F3RXFwaUpkMFdHX3JLYTlUQUxtSFJ4M3JTbHZYck1SdFRrTzRySW5KcmR4NWJTQ2tYSVdJa2tPSmJYd3kyN1ZYVFRISkpyckJfeUwyQjU5S0hXYXVUTzUzUEFfQ001RVNIT2U5TC1BQmhNcTJnTW9ZY0YyY0ZRanlKc1ROVWVrV09ZeGhDVUJHUHFHcXM2bmNtcW5rQ3dEa2VnNHpQUElwM3FvQnNTZDJCVm1KZDRQb9IBkwJBVV95cUxNT1VtWFNlMndWSktQT055aWlOX2RIbi1tRGYwNnRKRndvOFlTTlZiVEd0MUdKQ0g3bHQ1ZHdDeEJoVnVLRlBmN2pWYzh0cWtYTHdjWlhzUHY3SEQ4Y013Z0t3Z210NE1EakJoeVJXMV9RenVUakk3M181cnBfcUpQME4xMV9EaGQxNE9LQWM0Y2NsRl9HbWNqNXZqRVZYTXZUUzRNYmNmZnpkQlJhb0NrODRqTzB0N0xSUGZxMXpQVlRfUjQ3dFk2YkRjOWNlWm5fa0RjaE5KWEc1d3YwR01oRlJxOHNnaGhPdTVHNDloa2kydVlCdG43MG1kWHVqWWxWbFg4ZTNPWExNc3M3VlJKbldDZw?oc=5",
-    "source": "Infobae",
-    "date": "2026-10-16T15:30:00+00:00"
    }
   ],
   "eeuu": [
+   {
+    "title": "Los votantes hispanos ayudaron a que Trump volviera a la Casa Blanca. ¿Qué harán ahora?",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0xKMVlYRHhQR2pmVFBMakg5bllvTTVnOFBvb1hmMWlMREEzcUZ1aC1LcGNwUkZZMGMydTlfZDkxN09JVEJvVERTRlpYclNvZm4wcjBkWC02bXlQQjE5Wnk2cGx2QnpxSVVtUmVzY2FGaUgycW5tcEt6NVE5UXp6S0tWcHZnUDhSNERCUGdWZFZJdnQ2d2RxekxKbWRhazJZZlMtMW1R?oc=5",
+    "source": "Laredo Morning Times",
+    "date": "2026-10-18T12:34:48+00:00"
+   },
+   {
+    "title": "Negociaciones en Washington sobre el futuro de la Argentina",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXFYdnBsV3JrYzJTWjJIX3hWcDNCcU9qUHlIZWJuTmRhbERic1J6Z2RzZTZ0bHRYdElrSEtfX2U0djRRWFkwREdsNEctOE00VFM2OGIyVDVfM2F1OXBXZXI1cWViMkR4SFZmMFJfZWMtVVAxd2Zvc1p5WEpYeWpBN1VhQ0ttNGxrZDd1bGtKeDJBWE1DUGpGLXZWUW9YZGd3U3hELVRnVVNrek5SV1E?oc=5",
+    "source": "La Nación",
+    "date": "2026-10-18T10:46:00+00:00"
+   },
+   {
+    "title": "Crónica Washington Spirit 1-0 Gotham: Di Guglielmo asegura el billete a los playoffs",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUEluZGRwenpsMGdXS3NoaEFlMk1DOEdfOGNBS3hTU1V0bllnbzh5STFOdEthVElWdWVHZDY0OEVfdDhNVHJWYzI4X0N1N3FSeXVsQU9EdjZpdVROWkFjSEhEYlJKc1ZZQzFob21UcVkyWVBUUTh5WlJDQVVHbW9TQWxzaXpqNzJvbXI1TU1vSHNSUFNLcFlzYWppd182b1diY25KYzlXOTRMaUdWZ1V5Mg?oc=5",
+    "source": "Las Futbolistas",
+    "date": "2026-10-18T10:34:19+00:00"
+   },
+   {
+    "title": "Ignacio Mier ve viable reunión interparlamentaria con Estados Unidos",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFZIQkhIVGdHQy11ZExtT0Z4dnVkN1pjaWNkWTJBUE14OUo4VzZYcGtkTEw1bHJrVXZLUlhTQ3ZHYXlJeDBWd1hYMW56cjZKZUpiTy1NenFLWk5DOHFBdkd2WllDS0tOMVVoeHBtaTJFWmd1MHdBMUg5dlJ1SGp3U1pQazVPdkYtNTZ5VnBMdHBwb1NFN2FaRjZjMkI5LW8?oc=5",
+    "source": "Hoja de Ruta Digital",
+    "date": "2026-10-18T09:38:49+00:00"
+   },
+   {
+    "title": "El grupo de trabajo de IA de la Casa Blanca adopta su carta y abre 120 días para la regulación IA",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUxOVjMweDdZZkV2VTExY0tGNkgtVHVnNFZlY1VUU1FuclF1SzJTV05fRTFsOURRQlAyS0hYUWFVVE8wUF9wY1gySk1yZ2JrTndFTFVIeDhoYl9WaFhpRDNiOHMxYlAwaEkyOF9Cdk1GYzlrMWVpSHduZUcwUWtEZjVhRXM?oc=5",
+    "source": "MONCLOA.COM",
+    "date": "2026-10-18T08:58:56+00:00"
+   },
+   {
+    "title": "\"Estos son tiempos difíciles\": los legisladores republicanos afrontan la furia de los votantes por el Washington de Trump",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEFSMHFET0RLMDY1Q0h5SUZPVmtfejJEMjZXUFpCanBOcVgxRWxXN0RHUEpsY1pvWVBreVBBbkJGTHJjS1VGSk9kY2dtYUxudjlaeUZFZ1BxQTNmYy1HYV9BaVhuTF9ra243eHl0YVM2NXNib1JoUDU0aV93cUNqdTBNXy1fYXZVeTdqd2VtX09WaWF4dmxv?oc=5",
+    "source": "CNN en Español",
+    "date": "2026-10-18T07:23:00+00:00"
+   },
    {
     "title": "Rubio viaja a Asia Central mientras algunos se preguntan si evita los asuntos más urgentes",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTdVbUJ1eHl3ZGdJbktvTUF6WjZLdkZtWXpsSTg2aDlXVzNRaUJ6eVFEcWlyRmhFdTNKcmZhUUVUQ3c5SEczTF9MZUcySi1hLWFiTG9YZ3pFQndVUGVzSExmancyUkZwbnI5Rkltc180SFl0ckl2MGJFRE8tOU8xVUtVbld1b2RnUWYwald5aGQ2OUE1bldmRTdIZWdoclFzOE1kYVZQYlhaWW96VGx6TDZEQ0l3U2NvM1NSX19DdHM?oc=5",
@@ -480,7 +510,7 @@
     "title": "Protestas No Kings en todo EEUU alientan el voto anticipado a dos semana de elecciones de medio término",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVC1TcXhkV2J5MGtLbXpUS2czSWZYcDRKd1B2Vk0taDFhZmo4b0NTX3hlUnZNYUFqT3hQcWVodEE5LVZUejFhcUNONEd6ZFJGNng3NWtWM3Y2TVN4eVE2aXhudnY1SHlMTUtheG1zaDhfb3AtVm9KU292REg5VjRqQTJjRzR4eWNZdGpUN2RxdnlocHF6VEhpLTVTdl9xYVJOWjNoTjBkcmxJeEkwdFBWWkdUTkF5d09CYUFmZFJPZm5ESUczZzVpd1VnSTBNSm00TExFOWFicVcwVGVjTm5xNjZyN2Z3aTNCM1lkedIB7AFBVV95cUxNbUZhMzE2V3RXdHA0WjA5aWdFWnpfN1ptRVRGTzdhRkpxbzJ0R0ZZUHJaVDJSR2t3eTVteU5jdUdVNXI4WXhuUnhhejItbGlIbWFZemtkLW1iZUZoeXJGZkdrNTl5T3Z6SXhWSHlXVzdXb2lTWEpvNC10SEFaSDN4RnI5VzZqWU51Q3Z5VFFhS01RRjlPeWc5WVJXZjRlUHZTT3dOdlV0SUZtZ29QdFYtZENGWWpjWHd5SmtxNFJ3R2ZnUWtvN2d4ZDdfcEFueXlkbUZtYVJXajdKM1d5aGVleDVRVFhCek5qejlHUA?oc=5",
     "source": "DW.com",
-    "date": "2026-10-18T00:40:10+00:00"
+    "date": "2026-10-18T00:44:58+00:00"
    },
    {
     "title": "Pronóstico San Francisco 49ers Washington Football Team - NFL 19/10/26",
@@ -489,40 +519,16 @@
     "date": "2026-10-18T00:15:00+00:00"
    },
    {
-    "title": "Conflictos internos en la Casa Blanca antes de las elecciones de mitad de mandato.",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0ppbUpKTGlrOEVQS1FjTERjd0dNWGZ1T1hYU3F6NlVLcDd3eFRFU1BsOUpiQ3dDTjd3dDJ3YWFBdWtELVg4VGdVdEpia0p4ejlfWWl6emQtbTNpOTdDa0RmV0dhdm9jODRCcG5iTm1yM1BFUWdjYURxZXBJS0p2bFJCTQ?oc=5",
-    "source": "Vietnam.vn",
-    "date": "2026-10-17T23:45:34+00:00"
-   },
-   {
     "title": "Rusia, Irán y la política exterior de conmoción y pavor de Trump",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uZUpRRFY3YzRwV1JBemdLb0hlbk1XWHpXSDAteWt3SUlMd0hVSVlzZTZnZEdZaDNuTjN0dTN6bks1NEM0QmpHUVBSVEtJeURvcWtSUUpncTJnem9EZ1RSd0laRk1lQzU0cXdodEJTRzFkaGNHZFlfSkhnb9IBe0FVX3lxTFA5VGVXTmZIaG1nWVpXMTNWQTlFQ01HMENrejRTVTRac2p2el80QVQxTFhqdWRieXR5YmNLRUJSaDMwWnBzbnZJZU83MWV3SkFjOHM0SFV0SGZyYVBJLUt6LWtDNVczLWhVOHMxV2dkdzFrS2RDUDlzbjJjaw?oc=5",
     "source": "El Mundo",
     "date": "2026-10-17T23:02:00+00:00"
    },
    {
-    "title": "María Corina Machado acusa a EE.UU. de excluirla de las negociaciones sobre Venezuela",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGpoektvQjVlZEVlRV9oWFRPXzhCc1ZxRlNIa0pZT2JVbjQzQzNIdEplbFR2V0ZBRHA0YVRQSWJkaHBjQ1JlRjBTQnEwZ3Q0RG9uQUVMclloamR6YjZxaVZqeHVFY3RCMWphcmF2R05mekdEZjR0SUlPTVplX2FOb2RZWHZFWjlpdWplUHRmVHdKTG93TWNUTkxlWUpsQU9UYko0bktPdlpqZ3pNa1BpYkFTY3A0b2RObHc?oc=5",
-    "source": "Noticia Zavaleta",
-    "date": "2026-10-17T21:52:53+00:00"
-   },
-   {
     "title": "KATIE ZACHARIA DEJA LA SECRETARÍA DE PRENSA DE LA CASA BLANCA TRAS UNA SEMANA",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGM2TktyWmVqRWZnOWExb09GQThLamVTcm9aWFM4TEM5cWNzQzRPTzJnMk5OYmhzbnJ2TG8xWEJsRHJ2NlVKaHhsRTRua2phSU1tU2h6ekR4eUtjMmUwZmFWSWFxRThFeFQ1LTZCVWhXR2s0ZE9hNHlpVC1QbFExZW9vUVo4d01kb0lIaVRBOWJFVHB6SEcyZTVhUF9DTEg3UGFWRmp1WGV3OFpRdEQtcA?oc=5",
     "source": "AP Noticias",
     "date": "2026-10-17T20:59:47+00:00"
-   },
-   {
-    "title": "'Girls' regresa a HBO con una nueva temporada de cinco episodios",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0h6ZVR1Q2pGNnBhU25OcDRiNU5PVFpWeVNpaVBScWNtdEV3RXJSa2xKNjZaZFJPLXVRcWlkU3BlNHItUWlhTGZwalluMGpiNGVkTmxJQjBGMGVMNnlHYmFNNTZUcTNJSDNYa20zaWhobGNDR2RlX0VGMGx0MDE0em16ZUkwV1NDYmhZXzlqZDhpb1gtSVF4c0hzY3RtSU4wT19hcE9xd2pTUdIBqgFBVV95cUxOS0h6ZVR1Q2pGNnBhU25OcDRiNU5PVFpWeVNpaVBScWNtdEV3RXJSa2xKNjZaZFJPLXVRcWlkU3BlNHItUWlhTGZwalluMGpiNGVkTmxJQjBGMGVMNnlHYmFNNTZUcTNJSDNYa20zaWhobGNDR2RlX0VGMGx0MDE0em16ZUkwV1NDYmhZXzlqZDhpb1gtSVF4c0hzY3RtSU4wT19hcE9xd2pTUQ?oc=5",
-    "source": "Washington Hispanic",
-    "date": "2026-10-17T19:17:00+00:00"
-   },
-   {
-    "title": "Ve Mier viable reunión interparlamentaria con Estados Unidos",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2dMczRpYkc3ZWRKM0Y3T2EyWjNLdGwtVWZvRlRNUGJpTlVGSzdjTHlHSW0tQUpFSGJ6VjJIWjVpTTNYU3BnSlFoaTI0R21FSVIxLUxab19PdDNuRGNFOGVxZUtDWkVpWkN3ZVB6WUt0RktOMURoSEhGOXBDNUVZeVdtYW53dm9QRDEtYngzNGc?oc=5",
-    "source": "Línea Política",
-    "date": "2026-10-17T19:14:57+00:00"
    },
    {
     "title": "La Casa Blanca afirma que la FTC puede bloquear modelos de IA antes de su lanzamiento",
@@ -547,12 +553,6 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWU9VX2VhMy1WVzVtMGl1TGQ1TEpZd3JZc3hvY3QwLXRYcU5nVGNkY2N5MTBwM3RHd01JM3d5N0RDa2NxZ3owYTdobWxESlRnWmZzeHVrbU5LWnNNa1pfbGN6VVZDYno0Y21EWGxRWE9KRXF5d0NVMlNoQTF5dHloM2VWTlE2SUpWNkx5WXpVbzUxYWNsOTY3SXBSbzJieGZyMkFlWGF3ejNWaVkzUHRQTjJ3ZGRvVGZDRDVv?oc=5",
     "source": "Perú 21",
     "date": "2026-10-17T15:48:45+00:00"
-   },
-   {
-    "title": "Seis firmas de IA pactan auditorías con la Casa Blanca, pero dejan vacíos clave",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTzE2NjRRVEE1TzJuTzNFX0M4TXR6TllsSUNveGF3U1l6R1RYUXMzeWtKaktYTEV3WHVTaUtQdW1yMVBFRnNLLWl3bm9TSVpJN3lMZTZJNnFtUGV6REN0MWJsY2N5Z3V0NkdsR2s0YUJvMjFqYVVTVTNldFl4aXJfTUxIN1p0dkRKeWF2XzRsS2ZnRGl5bVNqeUxfU1h2dmJLeXpGUjFObXg5STd3V0oyNjNnaXE5SjVJOW9SbQ?oc=5",
-    "source": "DiarioBitcoin",
-    "date": "2026-10-17T15:40:19+00:00"
    },
    {
     "title": "ALERTA MÁXIMA, inmigrantes legales e indocumentados: ICE sigue utilizando los propios datos de Washington para facilitar los ARRESTOS en estas zonas",
@@ -585,25 +585,25 @@
     "date": "2026-10-17T04:00:00+00:00"
    },
    {
+    "title": "'Cuchillos largos' en la Casa Blanca: los asesores de Trump pugnan por suceder a su jefa de gabinete tras las elecciones",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSDZDcXQ2azR1a0VabGdVT09iREZnNkY3eXR2VWVPWG9iQjExaW1wM1BndldHeUY0d0dEMWxVQ1FEYnBRcUF4Sk5wZ2JYbmRWTWFlR2ZHa0J0anRtaTdiZ3hiYjYzbzFENS1Kc2RYanhoNmU1SDhkNE1VbzB5SW9pUWdUdlR5dURmSVpsMDhkVEplc1NNLWpEcGhyd2VfQnc2a3BLd2xLcjJFYWx5ak5hRDdWSl9mRVB4N0FjVUxUQm9ITDBzYWZ5RWd1bjFJczBZamlEQWxJWXJuWVY2SE01LWRUOUNKZGNFcVJiZFBDb9IB9AFBVV95cUxOX0lGaDlpRGhld09QYlpWM2hXNWV5ZEpXaVRua0NmTi1JNWgzSWVKdmhLRE50cTNpa09ReWV1dUVXcUJ2LVo3RFpOT08zTVAtUjJXdnFpSktMZWRVbXpPbHlKb1d5dDY2WEFGdG83RjFWbkpZVGFWTlB3ZC1jTTUyeGhIVXc5a25tUnRJOG9BTGRRRlZzV1B0akdwaWNZbk9wSFJXWU9BVnVXQ2RpakZfZm9XRVJrd3hPdy1WdXRSWll3R1AzcGN2RldXbGVOZDg5OTZlTUQxYXFLMHhtWmgwcmlVZWVqenM2QVhNSDdPZmJkVV8y?oc=5",
+    "source": "El Español",
+    "date": "2026-10-17T03:00:00+00:00"
+   },
+   {
     "title": "Kristi Noem, exsecretaria de Seguridad Nacional, asume un nuevo puesto en el Departamento de Estado",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWHFZekpFWlRKVVBqaU5pWUxUUXdFSkV1M2NqQ1plYVhVR0VZZ0d2U0d2endaNlRES1NrSi1JMnFXQS02dk9CY2RPQVk1amdRVDdxaVgyZjBMNXBkemNROF9YdDZGTTFkWHhlUGN4RHNlTUpsd19mb2RPVWhZbnhyMko3RmNQTjh2alpRREJ0MzN2U0NUaXd6MFNJSDBhQmhwRHUwcUdjZ3ctbU1kTzJjMUFNaTI1U2dhUVdWXzl3NnpDV2dVWHlmS1huVWNqSFFZZ292ag?oc=5",
     "source": "Univision",
     "date": "2026-10-17T02:36:28+00:00"
-   },
-   {
-    "title": "Arabia Saudita: el aliado que busca seguridad más allá de Washington",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXRfR2g3Y1dTZDB2MjZjMGtYN1ZiM1FZd2FhQUV2bjhydTRleXVsYWtnZnBGVUtObGpEQ21CbGN2OWZPZmhZS3dDaU5ubXlTVVVoYVZjTklnNzVBV2o5Rnp2RFpaMjF5V3BPcjJ6U1E5QzRfX1NpcWpna2ZYdDVjV1YtTG5Cc3h1Q196ZnVEOEY0ME1WR0RrTVE3aw?oc=5",
-    "source": "Diario Altavoz",
-    "date": "2026-10-16T21:39:29+00:00"
-   },
-   {
-    "title": "Washington condena violencia en Cisjordania tras ataque a periodista de EEUU por parte de colonos israelíes",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQckc2MGJMNzJMTGRObXFiNkYxcFdnZmI4MVh1cVNMVTNOU2ZJUUtHTDUxb1FOcjE4YlBrOW4zc3VXYnVTbE00c2pqLUE5djQtZzJrdVUzNUVqVzZ5TVFueEFuclIxWGs5Z2FBQkdpbUhRQmFkTFdsZnBWNHpHQ2V1emNISW9lTTZpN2tHbDZfeDYybHNjQzlWbTM0b2tfMElXWF9OdjlncmtQSmM0N2VPRzBlb09qUGYycGN0eXBxWGd0RHZsWkFaOHNTYXc0MXFVV1VLaHdDY25CWmdzZlkzVTJHeWpsQQ?oc=5",
-    "source": "Anadolu Ajansı",
-    "date": "2026-10-16T21:28:04+00:00"
    }
   ],
   "europa": [
+   {
+    "title": "Cancillería confirma que Colombia y la Unión Europea avanzan en negociación del Acuerdo de Alianza y Cooperación para reforzar inversión y seguridad",
+    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdUw4R2t4V0hINE9tQ0tLZFpOVWJYcG0zY2k5NmZnVi1fRmZaU1JLQlVZUlo0MUIyWUtFaTFJZVBZRjhJNlRJeGtIcWE2ekNFbnQ4SFdMLWNoWndUWEdGT1piVGFWdVBualdHYmkzQ01aNkNsa0I2UWFOc1V0TXpkanBfd2dwNFU0Tjd2T2xXWUlHdDJDWDRSV3Mzd3BzMU9kclZOX081dXlsVTRTeWliN2gwc0JlZkF0VHRtWlpUN09jZHNvcTdJanJIbHJfODIzeUdIVmVBZ1pmRlZRTW1mbk1malUwU2JYa3hnTWlSSEpuaGVfQ3E0MWVnWmpPWmxfNnVaZDVOQm4xazlieVh0M3c5ZnY1TC1ZNU1YR1Y2RkZBUWxaQ0HSAasCQVVfeXFMUGNkX2ZwQmtqNFlERjFBbU44UUg3WVFwR3FMMkN1SkoyTC1Qd21lelBWaGdMZElITW9IQWZQbF9rRHUwT3prSkhqMjRHWG9hV2w5ckxlekgwTVBxSHNzd09INzdzYkY2TFFOWHdRc1ducTFkTWpqT1hsb3lKako2eC04Z3MtQzBLam5XaGFkcG9UTXZpX2s4TzZRY2ViU3VRQkhuSS16bVlEZlRGQ19xeVZwb29wQlVEWXRiWXlZRzYxLWxGUDZQbFA0cWNiUmNqUjJSTDFuSkdEVDNiVElQRnFRdjZUbUZRTW9BZGU3UG94WjkySl8td1JZQzJtcExQakZLYmNqZVVCZW5RTVdZTGY5MDkxT3RPeDljYzV6UlpiM2ZuU0FPSHprMXM?oc=5",
+    "source": "El Tiempo",
+    "date": "2026-10-17T17:25:43+00:00"
+   },
    {
     "title": "Von der Leyen abronca a Sánchez tras el hartazgo de la Unión Europea por la política de inmigración de España",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUhSOHYyVHhuUDFyd2ktMGVPNllzTk5yWl9wTXEwZXVXRWJoVGVNUXI5SFV6U0xlSUdoTDhKV0Fud1Q3VlZtUFFycTM0dU9OYmtIVjVvRjR1b2dLb1ZaRVhQZUhldE0tYVdMeF9uVUVJY0NmX0lEQmJVLWVRSTc0TTU2WnQzT05LWTFfalJSbHByR0NGR01UVVBzNTBoN0t5Z01SMHJ4VEljdHJLbTRiVTNDWjJNbFdxcEpFRUtjSlBIaDc2VllLUmd1TmtvR0tEUnQ2dUJ2NWhBVmdhZGRQOU1tdGY2TUNx0gHuAUFVX3lxTE81UFF2dWx5a1Y4emxZaEpNTm4wOFdLN3RyYTVDbnNYT1Z2dHhzaU9GOUkwb1U4b2NTZUxOdGxRVTJNTmpzMWtxcDlyeGVnOS1JN2VmMTFkN05nZjdldG8xTnhOWmNIRXVFa1R3MDdVRjdCRmFMYU1hVkRaT0UyZkFnSXpmVXdNU1QwcndmcFN3ZVJQWkRVMDJYQTJnM1hXYURURGEwRDJMSlNPSWU4VTlGZjFEY0lDY0JBc3drT1RkUU55aV9mSHFzN2hmMGZBZks1OWxQaHJ0WGlqWXlQLXRSWFZTbTRNdkdJbU9GMXc?oc=5",
@@ -661,6 +661,12 @@
   ],
   "asia": [
    {
+    "title": "“BTS en Palacio Nacional fue una herramienta de diplomacia cultural”: Lucía Sánchez; politóloga estudia el “poder suave” de Corea",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaXFIc1hkTDMtaGJmZ182MUQySkQ0a3RvSllId1FRTG9sN3NwWWs1NkUxNXVHUk84dXRtWHN2TUJtLWhTMTZsQk1NcGM4b2xtYi1CcHFkZjVuZ0J5emUxVS1VamhldUJZZnRGQmRKQmRzNGtWNG83T3lZRElSY2JFOVJyZHktMHpiMVJhYWQ3dFRGclhxMEVrNUV4eGFpYU9yclZDVkViVXJSU2I3Zy1GTVpaN0lpcnZ6MnhjSHhYeDlBZGJqZmh2V1RGWEF6TVNucW1YQ3JKbDFFX3lUdFBEcERoOWw5R3E3Wkw2cWljZ0pNNXdt0gGIAkFVX3lxTE1rQzJfTHVWcUVEaG9aSERPZGZxWEFoZ3MzOFgwSm9FbDBCSlhyN1huSlhsVERDcWw1OWFWanBrd2owU3F3Wmw3UnQwU1AtV2pfRTdYbG5BazZ3QjUwSkRIZU11Mkd5Ym91VVpmeGRreFpveWpCemZRc2g1Y21JNF9VT1dDQlVGdVJDOXVReURRSkg5Ri1BZ2NGMFRSbTNSUzB1Q3JrdXd4S01RVy1zejZXOGFhSUM2X0JoUjhiQXhtZFk1NXRrVHZ6ZV9pdXl3LUsxeGRYWHZhNHZhYmMtd1A0M0tuNkNFTjBaRVJNdUNyVEZ1SUhTbGdWOEg2elJaV0xyMm41Q2FyZw?oc=5",
+    "source": "El Universal",
+    "date": "2026-10-18T08:29:50+00:00"
+   },
+   {
     "title": "Venezuela y la India fortalecen agenda de cooperación bilateral en materia ambiental",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2J4dDhuZGVzbzkxa2NVeDB4aEZQQ0NxalNZRzZJc2UybWRyNEtLbU9MZFZrYWZGQklfQ1BGbEVfaGNMTDVSRXhCLWp5akZraEJlLXV2RHBLeFQ0ZWttOXZBNUVuSWMxbG1GS1BVTzhuYmNmdzdYY21OMFVEWXBsOFRKWEx4ZDA?oc=5",
     "source": "La iguana TV",
@@ -671,6 +677,12 @@
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRFZaOWEyOEhoWWFqMENPb2lnakI4RTJNMWRnd0FTMGZSdnVDamh5MVRqRE1rMWUzcy02WVg2RWh2b2xXOVJCZVFKSGtGS2FGV3Ftbnp4UUZobGxSXzZELVRfNDQwd1E3Tkl2UnBNajNIODJfSkE1dUpGX3dSMlNFYldaVnFSNkg4elluWGIwVW85RkVxQ0E?oc=5",
     "source": "La Prensa - Noticias de Nicaragua y el mundo",
     "date": "2026-10-17T06:07:46+00:00"
+   },
+   {
+    "title": "El hijo de Maduro confía en la diplomacia y el diálogo para lograr libertad de su padre",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkN0bEx4aDdlc2QydVZYTjNHSXJFdUc2WU44bkFQMm5icjdGQUY0bzg2QmhHbFM1NmExN2szRUQxMEZxN0VDd1l0WVp1T3p0NS04Yi1NYk5kUTVRVHFrM3A2WWgyT2M0SGRoZ1JIWlk4OVJqbWVnRFMtb3hQckdVT1BrdzZnY1B1MU9lZEQtSXh6UjZQU2JEclE2TkdtU01RMXlYejY4VGVua3ROZTFJT19ZZ1kwRjBSWC1sNE9KYTNUNzNpMndTLU9aM3dlaElJQmFlZWVwc9IB8gFBVV95cUxNOVhpZ2wyTXZRQUUyUW15UlhRdjBwbWEwWTN0U0xlckJueWxoX3ZoalIwM3gxWFBHWm04NWF1Rl9EWHZFQ0RhWFJiSUpwRTB1S2hIRlRKeXA1bEVrVm5RQTVuOFRSYUxjT3BNRklBQVFPejZQQ2Rya1hpNjZsNm5ZQXp0OWxQaV9hbm8xT0hqRXZ1UUxGNTVkM0EzZExTUkJ4UF8xRVFtbkVEQ2lLcFU1dDNQLVZ0aDhsTmJSZzc3VnlzV0cxVThiM1JvaHJkN25SZVBfTFhHOHhMTHNfdEJCS3lmcDBvS2U5bFladDNfUnAwQQ?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-16T17:32:00+00:00"
    },
    {
     "title": "Javier Milei y China: el swap que sostiene las reservas y las contradicciones de una diplomacia de redes",
@@ -711,6 +723,30 @@
   ],
   "latinoamerica": [
    {
+    "title": "Brasil define su futuro presidencial en segunda vuelta: ¿Qué se juega Colombia ante una victoria de Flávio Bolsonaro o Lula da Silva?",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeXhaUTA2WjFWOWlqSVVnRXkxZ3JKdUtXbDFIZGNvWTZCM0x2M2dFN0xxMTZKM0dIcnhHZmY0WXoyZE4zVHhmb2JIakVxZ05hNFdHeU1KNVAwT3dqWGI0OG9XTE1tdV9ZMDJTZzFZMkRDXy1Ncmh3VmpxNlNWZGJ6TEVLZ3ExTXdlc2x4UmpfOEloNmZaYkkyd0pYNTJyeWIwY2t2S0lwX1Z4cE5DNUhmeGV6NTc0b2JfYldtNnRUaFFQZkwtNXhfLUxhaDQzdUI2bW80U25MZTloTGlnUll3azMtRzFsWE4tbGFseXI4d0JfVUxUMUlkU2IxVFVwS2NYcVFVU2hB0gGgAkFVX3lxTE1QaXNGN0xhWTlmRzJZMkNMenJMTFdiblZ3aC1sbWx4cWNvRF9DQWJUeEdhOWlqMDZRT194VlI2Ry1ma3VJUzh0Mm1yUmZsZzVjUTRHZUVHLXJTZGl2ekJuOWZiT3dLMnU3S3dZY0Z5eW44V0ZYeGh1RnRTWjJTaURPSHRBWllQc0lvbzdvdWtqbWoxYkhKeksyMUlIOEFKRkN6dlRkOWZGNGtuT3Z3TEktd3ZVX1BiNHZCc0U0T1FhYXhvbGN1RGpfOTVEWFB5ek00ZjFIU1lXb0YyNlpOSGNkbmFERHl1ajJnOVl6SjRUUFBPV3c2aThYa3BTRVhLQ1dPN0ZlVjQyVzMwUEY0ZjlqTGp0QkJjRUx4eElQMzl4Rw?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-18T12:40:49+00:00"
+   },
+   {
+    "title": "El Gobierno nacional evalúa sumar tres submarinos a la flota argentina",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1I4dUVnYUZfU1RvMUdkWEl4SnNJNXE2ZjBtY1l5dDd0dUdmTU9oNlJrM0xnUDdNWl8yOUhsc2VIX0txYmRETXZTcEdKQ1J2OFhDUGl0X05ZTUthNEliTXZBZlQweTM5Q0NRV0lqRGlDMkx5YnBBYVFMTDFxaWplQ2JwT2Q5NHM4MFRtckh4blYyUU9UUGtVc01ybGZ5ejhlbk5nMnQ2ZlFWbktDdFc0V1NB?oc=5",
+    "source": "DameNoticias",
+    "date": "2026-10-18T12:37:41+00:00"
+   },
+   {
+    "title": "Banco de Talentos del Gobierno: 145 colombianos ya fueron contratados y más de 70 hojas de vida siguen en revisión",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVy1Mc0x4YXJybFUzM3oxNC1QNTc4d1VvRElpOHk4cHdPR1ZTVUtjeWM1MDdUcE1pSGFBNE04aE9xdVBEV29NY09jcVhhTXlmSUthSmdOejg3c3ZkZDRnMGVzbUhwcnkxVXlDdjlCeVVCUnptVXVHQTRhVXJHSURrYkRDakxqaFBIcWdrWWRRbm5qa2ljRC1TQUh1dFFFRkJRZUllYU5rV3FjN2xWeGRqZW5oR3dDcWk1ZGVxVjNVRk0wTkV4aVhZRlprODlZcWxBSzBLWlE0TDh3bEtvMHpuX0pGZmJLOU5EY1ZNMzFfWdIBigJBVV95cUxNZ1djSlIyOXV1eTAza0ZnMkVoaGxFR2hnYVpPc1JFM3loTVVad2VET0JuWmxrMFMzVzVMaXg1RXZtVTdrMnhHaFpHUEZhc3V1SVVrZk9MUTZQWjBfdGdWbFVmV3ExVE9mcDZmM0JJdWFWX3RGYW9xY2dsRzdUVExIcXpRZ2RWVzVzRnFod3ptTjZvSjVuUWlJX19uWVJPRDh3aXNEZ3RLS3labFI2dlBLdWI1XzZpSkhPYUY5NEVBSTl4UWY2M2E1V3c3anNzc3YycGJMSDJnSXJLZnRmYkRXb2lMM3hNQkhic0FjSEI3UTRiNXp0OFBjYWswOEJDXzVQN25aalIxbmJMdw?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-18T10:16:04+00:00"
+   },
+   {
+    "title": "¿Qué pasará con AT&T México tras su venta? Gobierno revisará competencia y cobertura de internet",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbE9hMHdYcVFDakd0allOZHRnVTBQSWcwem85dGJScHdwREZTdy02R1hxRFFQR1FxQmZjMGZ4SGl1WWdfREVfTzd4MXVyNEhMMkxEc2VkMjQ0Q1UxNTBYWUpfNjNfVU9reG90TjdSTDFDVEJBZFdqaGpKRWFxM25zWDZvNlNaeFlBSTgzREQwZEU4NmJNeGI0LWRmOTBwMnBuMmtVM1pIQVZKQXlmblhsZjM5azRsdTVxOEZtUHR6UlZyaGVndlJ5bEtQRlR0OFZ60gHWAUFVX3lxTFBERTYtLXBfbXZ1MW9CbjhZQ2EwdW80YXZISnIwY2dhR25WdEREc3lMZENPVE5DVXVLanNrblNhTk5JU1VSamVwZW56WHJwb2xVajRsQ1JFR0t2TzRGUll3TTBEVVQyTWN5SGF3dGJEUUpCSEUzMnlQYlJOMm93RE5YNDNxSTJocVIwel9YRW9mcGNoRXlibFdJR1BHY3R2SDFjRG1TdEVBWmFUMzFRUENBamhmYUxRWUtFNXU5RjJNNF9fSVhhV2t4Q29odW1VS0hwdHlqeVE?oc=5",
+    "source": "El Economista",
+    "date": "2026-10-18T10:00:00+00:00"
+   },
+   {
     "title": "Denuncian penalmente a Gobierno de Milei por violencia policial contra protesta universitaria",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHA5S01tT3ozR0ZydFdkN1FJbGNkZkNlWElic1FwbVRMZ1dkRjlESjUxUjRydTcyQ2FYT2V5N1Jva3c4YUVLbnFjNmVIM1JQS0dtUE16RHU3d0QweF9LRllWLWJjTHYxTG9Ic1JIcS1yaFRPbmVfNXlTSTFBVWhRRVVFY0NMcGlLQ3c5dDJtTnZJYlI1Zmh0Tw?oc=5",
     "source": "teleSUR",
@@ -735,16 +771,16 @@
     "date": "2026-10-18T03:25:00+00:00"
    },
    {
+    "title": "Museos de arte moderno de Colombia piden a la ministra de Cultura garantizar su autonomía: “Ningún gobierno debería decidir qué vemos de nuestra historia”",
+    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPaFUtYmI4dFctMDJlSHVGU3l3LVF3eGdnR2tlNU9QcW84ZEhuSFpxWHlNWWIwdWktdFQ0RC14QlFBMTZjbzY5bXlPVXJpQTBOMGhBZ1ZMNjNZeEJ3QkN0YTdpalEtMENISGNsTy0tSU9Kc1FrbFppdWZNX2dFdGczWVdzWnJyVVhkWEd1bE1iQlozQjN5UEt4Ml9Ra0ZTRWRSLTVaUVREMk9KQklPNUw2Tm5Ma282SnFBSDZXal9IZDdFT01ycVBsOHlybWJrb3hVUHlOWXNyV1M2UU9mRURtR29JcDJGMUtDX3BZQUhqMFFnaW1UQUpGSGxhVDFGNUh4cXZzbDlHR2o4ak5DR3JteG5IT2FzZDlnVDgxREdlYkVWd9IBvAJBVV95cUxQNWRMcFl5eFhzZ2pUWkc0YVB6N2RfTmxhRVdxOHlXT01uZVJBSW9GTHVaQ0RLanV6VVhSX0ZTdTlhVHF1S3N1YmlNaUpTYXB4TU15aE1wYXVaR3dYTVdBYVU5a1MtdE9nMUhZazhfTTdHb243WjlsdEpFRXJWZ1FNRU90Q3NiQjFTNWtUdExKakREa3VRZDFwd0lUaG1WOXlBanpmSHl3ZVh3VXk2MVFqdXJpYXJlZ3ZxWEE0NnhleWhXeVp0a3AxcThnY3J3OEItR0VSUi1SUGRXVGMyMkpqemo0TDM5b1MtMkIxOXBYX1poaUFLeG1ybkpXOXZRak4zdndPVzV4RVFkZ1RfbUNEQVFmdmxkRHdhNVllRGNBUm1XVUZoZ2ZuenlvM19qRWVwQnN0azhveDVVZjNl?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-18T02:16:00+00:00"
+   },
+   {
     "title": "Cientos protestan contra gobierno de Colombia por lo que consideran censura en un museo",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWVFvRUZVMUxnVWlNU1dRNHlNN0gwdUpXNDR2ZnZlTzJEaG5kdFAycjF5VDg1c3duM29IUWhlTm9TNUNNVzdOM2NHSm9DSzNCZXRDQkRGeU9wVjZCYTI2RkU1SzhzbHRPZHFfVFItby1CdHpsN0dRbkV1U3RPcUt1MTQ5Y1NzOUs3eEJBSXduZjNaTy1YMnNyWm4xWG9nV2dIOFlmQnBiSlFUSklzNWJXR1lKbFVYbUJVcG8xWnl2TC1TX290UnByUjBpX0k5TVVHZmJGbHVUOA?oc=5",
     "source": "France 24",
     "date": "2026-10-18T01:57:24+00:00"
-   },
-   {
-    "title": "Museos de arte moderno de Colombia piden a la ministra de Cultura garantizar su autonomía: “Ningún gobierno debería decidir qué vemos de nuestra historia”",
-    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPaFUtYmI4dFctMDJlSHVGU3l3LVF3eGdnR2tlNU9QcW84ZEhuSFpxWHlNWWIwdWktdFQ0RC14QlFBMTZjbzY5bXlPVXJpQTBOMGhBZ1ZMNjNZeEJ3QkN0YTdpalEtMENISGNsTy0tSU9Kc1FrbFppdWZNX2dFdGczWVdzWnJyVVhkWEd1bE1iQlozQjN5UEt4Ml9Ra0ZTRWRSLTVaUVREMk9KQklPNUw2Tm5Ma282SnFBSDZXal9IZDdFT01ycVBsOHlybWJrb3hVUHlOWXNyV1M2UU9mRURtR29JcDJGMUtDX3BZQUhqMFFnaW1UQUpGSGxhVDFGNUh4cXZzbDlHR2o4ak5DR3JteG5IT2FzZDlnVDgxREdlYkVWd9IBvAJBVV95cUxQNWRMcFl5eFhzZ2pUWkc0YVB6N2RfTmxhRVdxOHlXT01uZVJBSW9GTHVaQ0RLanV6VVhSX0ZTdTlhVHF1S3N1YmlNaUpTYXB4TU15aE1wYXVaR3dYTVdBYVU5a1MtdE9nMUhZazhfTTdHb243WjlsdEpFRXJWZ1FNRU90Q3NiQjFTNWtUdExKakREa3VRZDFwd0lUaG1WOXlBanpmSHl3ZVh3VXk2MVFqdXJpYXJlZ3ZxWEE0NnhleWhXeVp0a3AxcThnY3J3OEItR0VSUi1SUGRXVGMyMkpqemo0TDM5b1MtMkIxOXBYX1poaUFLeG1ybkpXOXZRak4zdndPVzV4RVFkZ1RfbUNEQVFmdmxkRHdhNVllRGNBUm1XVUZoZ2ZuenlvM19qRWVwQnN0azhveDVVZjNl?oc=5",
-    "source": "Infobae",
-    "date": "2026-10-18T01:33:50+00:00"
    },
    {
     "title": "Emergencia Climática Preventiva en Chile: Gobierno aclara qué permite la medida ante nuevo sistema frontal",
@@ -765,10 +801,10 @@
     "date": "2026-10-17T21:30:00+00:00"
    },
    {
-    "title": "Bolsonaro afirma que en su gobierno Brasil estará entre las 7 potencias mundiales",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEI3bXNIbFEwSUlkek9Eb0dlc0VCOGVJT0VGVWVUams1RU04LTNPZ3JEdnh6a2RpRF9OT2FQNkhfbmhCMkhNY1Z6S0EyYzJLWlRuY0hueGJyT3BabnpBWWJqRDRERjFJMm5rU0hyRkdXQUVzd2ZMSVRvSEJpRDIwZWdPMGFORDhvRDBOVFlxdGgwcjZyTGxyR25KMU5UZGpiVFNpOFE2YmI4QWFzaXpDMTVaaEZQdlZvWTBZeVpmWQ?oc=5",
-    "source": "El Periodiquito",
-    "date": "2026-10-17T20:54:06+00:00"
+    "title": "Salario mínimo 2027: Nelson Alarcón anticipó que la CUT buscará un alza por encima de la inflación",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVV9fRkFVVTM5SzVncFRoZjFXSU9rOE04d2tIOHBmUUhaQjQtZUs5eVIyRjNBMTdnYjFGNXhwUDVSTnNzakhNV1VySExwdXZWcHlaSFlFYk9YZ3U4cmpHbEpXVFdmc2x1MUJJOHUtSXFZM2tIcFA1UzUwM2RIVTFaeGhmbExPVmJaUEhpNDFPZVpVdlhQd2VPTDVteF9sWG9iZVVSdjVXR2w4Z0ZYZHZsdUV5M3UyZHJnYU1EbFV6a0NMSVdWX3pTNU1EcTltU1F1X0pnSkFfRUJhUdIB9AFBVV95cUxQaHdyTWFDbVlTZ3oyMnZGRXpaUmpMRjVyemhxRTZXZU15dmc3ZWlGZFZyRWE5TmNLenBKNkc3ZmRFZlBqdmRneWdwMVFvOUZnQVA4MU1wSURYNkw0R1Zlcms0cFhDaV9RSUMzTDdpekk1TlNUdWVwQzh1dTFCN0xqblZIN2pCNVpyODI5TWJBR3Fsdm54TlRWMWtITEZPR0xQeVZiUFFlbmpYNjRRTEJVWDNYRC1kZ1FyNHA4ZjRGM3NvZVVadEU2RU1xdXdSdDlGNF8xWll5Umgyc3NZdldWRmYzQUdhNlpJaVktZkpaYmtFcHpB?oc=5",
+    "source": "Infobae",
+    "date": "2026-10-17T19:34:00+00:00"
    },
    {
     "title": "Tras el alta médica del Papa León XIV, desde el Gobierno afirman que no hay cambios en su visita a la Argentina",
@@ -787,12 +823,6 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaFVrNHF1RHNuTmJydHJMd0ZKckRLbGtkbmJmQzYwVWpvMFJaSFNKYzlTWW5DLTk1NEp2NEZqMGREMDYyal9SRDZja0J4MWhwcUdRWlNCLUNRTEl4SkZ1T1B3ZGJrTHp6VjE2NTRHUUdtTTU2ZDJvb3VSMURHNzh1blJCalhMV2tXbDNKNV9IcllTY050bnlkY3BUbm1UcEtBNFBaRFUyU2V3U0V2MUdmUF92UFJCMjdsdER0TFRkZkRTZWl6V2VmRTh0VjJsMERu0gHyAUFVX3lxTE4zck5qaE5OU29hdHdTRHNwT01WM05tSk5hSU9iTlF6dWZwLWs2Q2ZFYk5lQzRXUGdUYlVuZFVMZnVPU2tzMEVyYXp1ZE1PRmpPNU16eEtnNTBJVENKVzFEX3k3aFpvTi1sVHJWaFR3S0FQSjUxREQ1R2pSd3RwUUNfMWhYTjl3OVo0LVpOWGIwT29Dc2RUYUFjZ3ZDLTlUbjJQVWxlYjI5b2lvQXlaTEZlZ0UwclBQWTNQRzcxS3dBYWt0cEFIdWhjb0tFVDJia0J6YXYwbHZWeVBBSk03a1A1NndiU0xYWVNmdGMzMkxYRzR3?oc=5",
     "source": "La Tercera",
     "date": "2026-10-17T17:01:32+00:00"
-   },
-   {
-    "title": "“Nos reencontraremos”: Paz anuncia que volverá a reunirse con Kast en Chile a principios de 2027",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1JNQl9ERlRtTG5mOEZKbGtjRDNrbkFhVFUzcm45c0E2R3JCNllRUUg0RVAyc0VDUGlvdF80TkNFSUFuSjFUNlJCaGY5a0tsTWF2RjNUaXViRWNMcDUtM3RyV2hVTDVyQkhlbFhqaE9pSVVEMGl6YzVwTjZCZ2JJWEkzVjdkUGZocHVPbmVTNVFpdzZ0Vmc5YTRwWlZhOFRSeE93SkoxOFhwSFpBcV9RYXZwRWdiUXJYbzdEcko4cHp3eWhiNFVnR2RaYUFucE1SUU800gHYAUFVX3lxTFBqMGR2SU81UFd6ejNCV3hISElRLW1ZcFptQlRYV1h3UDE2em9rR1BlRmxYWWUwMFpabVhITnllSXI4U19leHE0SVhMZTlTOXFTbFdvcGVxQWZDN290SERTTkJCQ1dTQUkyejFWR25NaVlJV000M3JfU1dhWW1Zd3k4cWZlQkw0Z0pVNXBfeGZXcjQzU2ctNkIzTjhCdVpoTlRYeFJjanFFSWhEUE9jd0tYb0NpckotbzE0T1NraWdmLXNyd0hGb0dlWVp5S012YmN1M1FLVXF3VQ?oc=5",
-    "source": "Opinión Bolivia",
-    "date": "2026-10-17T15:18:45+00:00"
    },
    {
     "title": "Scott Bessent, Japón y la Argentina: ¿cuánto puede aportar Estados Unidos a la “bazuca” de dólares del gobierno de Milei?",
@@ -871,24 +901,6 @@
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNmYtd203M0kteGlWYkpnTmNZYlQzc2RYakR6YW14XzhkQzY0RDBhNzhfVXdueXhjd0tpeXE5RlhtZnpjS1hGQ1JBMFVlUEVMNFhybzlWSGg0MFJiQjJjSUhxWDhpMHJxUUZGb1l6eVJkQWNDNF9KLTg1SXc4UTd1elhTcFljcUpyOVJ1YWNESnV2dUdjTTJUMDNtdHZsXzBnYjd1cHd1dVJsUS1PN29iblVqSGhpNEFJSEd5b1BIMWt2ZEpxY1FqSUp4UzRXcDRrVkt4bWhVNGRyOVRMX1prbjdpTXh3bGY4?oc=5",
     "source": "RPP Noticias",
     "date": "2026-10-16T23:28:34+00:00"
-   },
-   {
-    "title": "El Gobierno colombiano confirmó la asistencia jurídica a los 17 exmilitares acusados por el asesinato del presidente haitiano Jovenel Moïse",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTEp6T0ZrdUttRWJPSnFfY2lpV013MTEtQlhqR1lRbElNYVlSamRJS29JY0J1UURIQnFVUEFyUnhoZUhQa250S2xrbDZ6UDRMbkJ0enlCWTRsUllITkRzejA0YkR6d3Jhcld1bkdXeUcyc01zZTgxUmJwOVlxd2ZhTTlNdGdnOEZGbWYtQllRdzROMmQyRFVBRXRhSm5TaEMwc2ZYMlpicGVuNmU1VlpkcjdGeG9uRWExV2hXY3ZPWkh3N2ctOWNTOEJ5dlVPR0ZTMXBYSVBJTlpXdDQ2dUhNSVcwdWFkUFg4bElTbnpKMUdZZ3JvRzJlajE5bHY0S0tBTktvWnMwM3R0MEpSbUR5bEtB0gGsAkFVX3lxTE9qQW04d3VjSFVkejhneGpaYzNvNmRETWJKSTlMci02anN5NmFndUNCMTNSWWZzT2h2dzNRV1QwSFZTQWhoVDFqNlNYdzgxUUNWcXBGOThuNUFjbWJLOUhzTWp1ZlVaWC0ySnVjZzhTcWUxZWF3Wk1aZTFSc1lKMW1QSnc5T3dKd2VYaUFXVWhrdGl6WDEtRzRNOG5XR3Jna2dTLWVBQlRnNG9ZN1NNeDFMRjFIOHpvXy1mSTl1TWhFcUlCdUxZOUpHSWFpVGxXQ2VlN2lHN3BTV0lPVmZwcVNpZkJCWGg3bDc4dzZRS0tENzZROHR3UU1TYkRyREpGZlBOdklnRlNTT24tT3BMVTNkbXV4bzNoMktLQ0R2a3g0eklsMXdBbzlDWkZsTA?oc=5",
-    "source": "Infobae",
-    "date": "2026-10-16T23:23:00+00:00"
-   },
-   {
-    "title": "Gobierno Nacional y Google se unen para transformar la educación en Colombia con nuevas rutas formativas en inteligencia artificial",
-    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPbi1uUWU3Z3pGaGJ3eDhLdW5GMURSV2RoSGMxbUYwc0ZqRTA3UUdzbTk2VnlieS1FNENRcE1TRm94VDZXbWhMbGVaWkpwQWZzNmEyOEpocnRTUHRUXzNLc3RlTUUwYzRQczRyQmRpX0Q2TWgxcVZnZHdQMndXNEgwdmw1Wm9Nbk04MldHdzlqRXRtbndjeEo3S1dIZHJVWDlfaE1iTDUzMkdNMG03UGVaYnBURnRBcFY5U3NpQ0gxcjF1VDJNRW5ycHFOOENXU1ktcnUtdDZiNmZKYVBYRS1TUktwWlZDLTNnQXVtT0dJVHBqSDlGOFZCbXRxMVRudVJyYmhDYzlYeGcydXpTSGd3OVBBWk4tOTliWU5QY0ZFRll4ZTl2Z2xz?oc=5",
-    "source": "Ministerio de Educación Nacional",
-    "date": "2026-10-16T22:45:31+00:00"
-   },
-   {
-    "title": "Abelardo de la Espriella perdió tutela sobre los convenios mineros con Estados Unidos: tiene 48 horas para entregar los documentos",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQeC0xZ2tWTzhZcUVxOEt0ZS1xZ2pZWHVNcmotdVFJbW9KZVhfemZPUTBpdnZnQXVNQVZybVJjODBsNlFIVUtwUHJ4TDQ2TGJ6NDdTTHpUbUN4LW4wWVFVZlRIM0xVR3Vud18wOWV6dmpUNmtDcERfMlJpa2hOQzRVZGhNcnQ5MU15OEs1MmUtM1BleVBVV1o4YkxRT3RhRjhCRUhEZ3BrTmZEMDgwRDBMci1Wb0JTMGluRWd6Q2U2Q1pWNWVhLXpvU1NNX3dzbkVJMnl2YVkzcUxydnI3cDJ4ODUtd3lzdExia3BnSHlSQ1NkZnk5QWRDUVdSWjR0R05zRTNCZk81NEwyM1Z30gGnAkFVX3lxTE5NZUJlM3ZZc2hZT2YwNzA3cjI2WTh3RnkyRG1kS3lqZE5WY3pZNnUzQXMxX3BYLUloWTZzX0NLdFEycUdKS2hTNy1YMnB6R3RHRWZCcUFOaXVCVXZwV0VYQkdfcW1CaEh5X2p3NURscDRpTndxMndCbkU2TjFPM3VBVlZnMVl3VzFnODNKXzB3NHdkZ1VxWGVQN0ViUmN3NTR5dXBMSVV6LTZIOXJ5d3NZV2o1Szd6Q3pKNGc2QUhVT1VIdHRUZk1pTUhFZVlHdkVlc3VqQWlNZTg0UGFncGtPdEp4SHN3U2hpZGVUVWpNX1VyUHhJYWpfUmVTR2gyakdRYkM4TFNPU2tTQ1EyUm8zUVJsUURhMGhIQ3p6Q2pXRjEyd0ZNMkU?oc=5",
-    "source": "Infobae",
-    "date": "2026-10-16T22:36:25+00:00"
    }
   ]
  }
